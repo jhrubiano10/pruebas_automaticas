@@ -1,4 +1,4 @@
-describe('Los estudiantes login', function() {
+describe('Ghost', function() {
     beforeEach(function(){
         cy.visit('http://localhost:2368/');
     });
