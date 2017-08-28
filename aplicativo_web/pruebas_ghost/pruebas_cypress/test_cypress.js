@@ -64,7 +64,7 @@ describe('Ghost', function() {
         });
 
         cy.get('.gh-btn').contains("New story").click();
-        cy.get('textarea').eq(0).click().type('Otra Historia Jorge 06');
+        cy.get('textarea').eq(0).click().type('Una nueva Historia');
         cy.get('.ember-text-area').invoke('show').invoke('val', "Y veamos que pasa Contenido de la entrada que se desea en el Blog").type(".");
         cy.wait(1000);
         cy.get('.CodeMirror-code').click();
