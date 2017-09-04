@@ -23,6 +23,8 @@ Se adicionan nuevas pruebas como son:
 
 ![cy01](https://github.com/jhrubiano10/pruebas_automaticas/blob/master/images/cypress_test_Ghost_02.gif?raw=true)
 
+https://youtu.be/MiX0LBZWCEg
+
 
 * **Ha fallado una prueba ya que el sistema tiene un límite de intentos de autenticación**
 * Se intentó que la sesión persistería, pero el sistema maneja un sistema de autenticación basado en tokens (jwt), en este caso guardando el token en localStorage, cada vez que se iniciaba la prueba se limpiaba éste, se intentó hacer uso del comando ```Cypress.Cookies.preserveOnce("connect.sid", "remember_token");``` pero este sólo funciona si hace uso de cookies.
