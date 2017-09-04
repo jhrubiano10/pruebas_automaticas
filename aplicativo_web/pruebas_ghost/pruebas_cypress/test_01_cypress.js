@@ -49,48 +49,4 @@ describe('Ghost', function() {
         cy.get('.gh-nav-menu-details-user').contains('Jorge Rubiano');
     });
     
-    
-    it('Create new story', function() {
-        cy.visit('http://localhost:2368/ghost/#/signin');
-        cy.get('.gh-signin').find('input[name="identification"]').click().type("jh.rubiano10@uniandes.edu.co");
-        cy.get('.gh-signin').find('input[name="password"]').click().type("12345678");
-        cy.get('.gh-signin').contains("Sign in").click();
-        cy.wait(1000);
-        
-        //Para obtner la cantidad de elementos existentes...
-        let $el;
-        cy.get('.gh-nav-menu-details-user').contains('Jorge Rubiano').then(($option) => {
-            $el = Cypress.$('.gh-posts-list-item');
-        });
-
-        cy.get('.gh-btn').contains("New story").click();
-        cy.get('textarea').eq(0).click().type('Una nueva Historia');
-        cy.get('.ember-text-area').invoke('show').invoke('val', "Y veamos que pasa Contenido de la entrada que se desea en el Blog").type(".");
-        cy.wait(1000);
-        cy.get('.CodeMirror-code').click();
-        cy.wait(1000);
-        cy.get('.gh-nav-main>li').eq(1).click().then($opc => {
-            cy.get('.gh-posts-list-item').siblings().should('have.length', $el.length + 1);
-        });
-    });
-
-    /*
-
-    it('Delete History', function() {
-        cy.visit('http://localhost:2368/ghost/#/signin');
-        cy.get('.gh-signin').find('input[name="identification"]').click().type("jh.rubiano10@uniandes.edu.co");
-        cy.get('.gh-signin').find('input[name="password"]').click().type("12345678");
-        cy.get('.gh-signin').contains("Sign in").click();
-        cy.wait(1000);
-        //Para obtner la cantidad de elementos existentes...
-        let $el;
-        cy.get('.gh-nav-menu-details-user').contains('Jorge Rubiano').then(($option) => {
-            $el = Cypress.$('.gh-posts-list-item');
-        });
-        
-        cy.get(".gh-content-entry-title>a").first().click();
-    });
-    */
-
-
 });
