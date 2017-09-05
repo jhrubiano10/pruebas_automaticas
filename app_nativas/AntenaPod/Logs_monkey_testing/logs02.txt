@@ -1,0 +1,524 @@
+:Monkey: seed=1504706864444 count=100000
+:AllowPackage: de.danoeh.antennapod
+:IncludeCategory: android.intent.category.LAUNCHER
+:IncludeCategory: android.intent.category.MONKEY
+// Event percentages:
+//   0: 15.0%
+//   1: 10.0%
+//   2: 2.0%
+//   3: 15.0%
+//   4: -0.0%
+//   5: -0.0%
+//   6: 25.0%
+//   7: 15.0%
+//   8: 2.0%
+//   9: 2.0%
+//   10: 1.0%
+//   11: 13.0%
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=de.danoeh.antennapod/.activity.MainActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=de.danoeh.antennapod/.activity.MainActivity } in package de.danoeh.antennapod
+:Sending Touch (ACTION_DOWN): 0:(584.0,135.0)
+:Sending Touch (ACTION_UP): 0:(583.8991,131.64288)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,-5.0)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,1.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,-1.0)
+    // Rejecting start of Intent { act=android.intent.action.VIEW dat=http://www.philosophizethis.org/... cmp=com.android.browser/.BrowserActivity } in package com.android.browser
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,-1.0)
+    // Rejecting start of Intent { act=android.intent.action.VIEW dat=http://www.philosophizethis.org/... cmp=com.android.browser/.BrowserActivity } in package com.android.browser
+:Sending Trackball (ACTION_MOVE): 0:(4.0,4.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(85.0,0.0)
+:Sending Touch (ACTION_UP): 0:(82.51419,0.0)
+:Sending Touch (ACTION_DOWN): 0:(345.0,504.0)
+:Sending Touch (ACTION_UP): 0:(346.00122,506.1663)
+    //[calendar_time:2017-09-05 12:55:00.914  system_uptime:171915]
+    // Sending event #100
+:Sending Trackball (ACTION_MOVE): 0:(0.0,1.0)
+:Sending Touch (ACTION_DOWN): 0:(733.0,911.0)
+:Sending Touch (ACTION_UP): 0:(725.5419,856.3861)
+:Sending Touch (ACTION_DOWN): 0:(744.0,941.0)
+:Sending Touch (ACTION_UP): 0:(715.17053,935.9176)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,1.0)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,-1.0)
+:Sending Touch (ACTION_DOWN): 0:(289.0,466.0)
+:Sending Touch (ACTION_UP): 0:(154.67848,435.2922)
+:Sending Touch (ACTION_DOWN): 0:(384.0,82.0)
+:Sending Touch (ACTION_UP): 0:(403.26624,81.29119)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,-4.0)
+:Sending Touch (ACTION_DOWN): 0:(324.0,122.0)
+:Sending Touch (ACTION_UP): 0:(335.0422,119.55998)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,-2.0)
+:Sending Touch (ACTION_DOWN): 0:(516.0,524.0)
+:Sending Touch (ACTION_UP): 0:(513.0117,472.91925)
+:Sending Touch (ACTION_DOWN): 0:(335.0,888.0)
+    //[calendar_time:2017-09-05 12:55:01.540  system_uptime:172540]
+    // Sending event #200
+:Sending Touch (ACTION_UP): 0:(352.75095,828.89056)
+:Sending Touch (ACTION_DOWN): 0:(544.0,898.0)
+:Sending Touch (ACTION_UP): 0:(410.35892,877.65454)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,-5.0)
+    // Rejecting start of Intent { act=android.intent.action.VIEW dat=http://www.philosophizethis.org/... cmp=com.android.browser/.BrowserActivity } in package com.android.browser
+:Sending Trackball (ACTION_MOVE): 0:(4.0,-4.0)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(413.0,106.0)
+:Sending Touch (ACTION_UP): 0:(426.99167,52.668797)
+:Sending Touch (ACTION_DOWN): 0:(81.0,233.0)
+:Sending Touch (ACTION_UP): 0:(72.19007,285.95096)
+:Sending Touch (ACTION_DOWN): 0:(618.0,541.0)
+:Sending Touch (ACTION_UP): 0:(617.41034,544.4964)
+    // Allowing start of Intent { cmp=de.danoeh.antennapod/.activity.AudioplayerActivity } in package de.danoeh.antennapod
+:Sending Touch (ACTION_DOWN): 0:(468.0,955.0)
+:Sending Touch (ACTION_UP): 0:(571.5669,903.3965)
+    //[calendar_time:2017-09-05 12:55:02.411  system_uptime:173411]
+    // Sending event #300
+    //[calendar_time:2017-09-05 12:55:02.411  system_uptime:173411]
+    // Sending event #300
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,4.0)
+:Sending Touch (ACTION_DOWN): 0:(563.0,838.0)
+:Sending Touch (ACTION_UP): 0:(562.5884,825.6427)
+:Sending Touch (ACTION_DOWN): 0:(109.0,192.0)
+:Sending Touch (ACTION_UP): 0:(68.2488,161.58516)
+:Sending Flip keyboardOpen=false
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,3.0)
+:Sending Touch (ACTION_DOWN): 0:(294.0,219.0)
+:Sending Touch (ACTION_UP): 0:(303.25458,219.47879)
+:Sending Touch (ACTION_DOWN): 0:(668.0,1081.0)
+:Sending Touch (ACTION_UP): 0:(669.4875,1076.258)
+:Sending Touch (ACTION_DOWN): 0:(351.0,395.0)
+:Sending Touch (ACTION_UP): 0:(356.93893,380.2872)
+:Sending Touch (ACTION_DOWN): 0:(181.0,172.0)
+:Sending Touch (ACTION_UP): 0:(166.81226,175.23108)
+:Sending Touch (ACTION_DOWN): 0:(178.0,306.0)
+:Sending Touch (ACTION_UP): 0:(171.15932,352.99298)
+:Sending Touch (ACTION_DOWN): 0:(32.0,716.0)
+:Sending Touch (ACTION_UP): 0:(9.854038,713.60016)
+    // Rejecting start of Intent { act=android.intent.action.CALL_BUTTON cmp=com.android.dialer/.DialtactsActivity } in package com.android.dialer
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,-1.0)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,3.0)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,0.0)
+    //[calendar_time:2017-09-05 12:55:02.883  system_uptime:173883]
+    // Sending event #400
+:Sending Touch (ACTION_DOWN): 0:(528.0,1160.0)
+:Sending Touch (ACTION_UP): 0:(470.75784,1068.1298)
+:Sending Touch (ACTION_DOWN): 0:(574.0,623.0)
+:Sending Touch (ACTION_UP): 0:(568.4149,659.9809)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,4.0)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(455.0,764.0)
+:Sending Touch (ACTION_UP): 0:(463.11404,764.3116)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,-4.0)
+:Sending Touch (ACTION_DOWN): 0:(623.0,81.0)
+:Sending Touch (ACTION_UP): 0:(629.5543,70.67695)
+:Sending Touch (ACTION_DOWN): 0:(503.0,53.0)
+:Sending Touch (ACTION_UP): 0:(493.37497,52.53363)
+:Sending Touch (ACTION_DOWN): 0:(154.0,277.0)
+:Sending Touch (ACTION_UP): 0:(164.05165,274.32974)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(351.0,305.0)
+:Sending Touch (ACTION_UP): 0:(354.81937,353.30045)
+:Sending Touch (ACTION_DOWN): 0:(70.0,694.0)
+:Sending Touch (ACTION_UP): 0:(34.724865,696.91437)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,-5.0)
+    //[calendar_time:2017-09-05 12:55:03.196  system_uptime:174196]
+    // Sending event #500
+:Sending Trackball (ACTION_MOVE): 0:(2.0,3.0)
+:Sending Touch (ACTION_DOWN): 0:(466.0,618.0)
+:Sending Touch (ACTION_UP): 0:(446.67102,619.3443)
+:Sending Touch (ACTION_DOWN): 0:(294.0,555.0)
+:Sending Touch (ACTION_UP): 0:(279.97354,563.0651)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=de.danoeh.antennapod/.activity.MainActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=de.danoeh.antennapod/.activity.MainActivity } in package de.danoeh.antennapod
+:Sending Touch (ACTION_DOWN): 0:(176.0,1119.0)
+    // Injection Failed
+    // Injection Failed
+:Sending Touch (ACTION_UP): 0:(161.43298,1140.1005)
+    // Injection Failed
+:Sending Touch (ACTION_DOWN): 0:(110.0,1146.0)
+    // Injection Failed
+:Sending Touch (ACTION_UP): 0:(106.948586,1149.302)
+    // Injection Failed
+:Sending Touch (ACTION_DOWN): 0:(185.0,1153.0)
+    // Injection Failed
+    // Injection Failed
+    // Injection Failed
+    // Injection Failed
+    // Injection Failed
+    // Injection Failed
+    // Injection Failed
+    // Injection Failed
+:Sending Touch (ACTION_UP): 0:(196.44962,1184.0)
+    // Injection Failed
+:Sending Trackball (ACTION_MOVE): 0:(1.0,0.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(342.0,385.0)
+:Sending Touch (ACTION_UP): 0:(319.19327,378.65396)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=de.danoeh.antennapod/.activity.MainActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=de.danoeh.antennapod/.activity.MainActivity } in package de.danoeh.antennapod
+:Sending Touch (ACTION_DOWN): 0:(652.0,336.0)
+:Sending Touch (ACTION_UP): 0:(663.8577,327.3151)
+:Sending Touch (ACTION_DOWN): 0:(657.0,77.0)
+:Sending Touch (ACTION_UP): 0:(695.5156,137.67262)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,-1.0)
+:Sending Touch (ACTION_DOWN): 0:(336.0,86.0)
+:Sending Touch (ACTION_UP): 0:(330.8713,68.6653)
+    // Rejecting start of Intent { act=android.intent.action.VIEW dat=http://www.philosophizethis.org/... cmp=com.android.browser/.BrowserActivity } in package com.android.browser
+:Sending Touch (ACTION_DOWN): 0:(107.0,432.0)
+:Sending Touch (ACTION_UP): 0:(106.99169,436.09668)
+    //[calendar_time:2017-09-05 12:55:03.935  system_uptime:174935]
+    // Sending event #600
+    //[calendar_time:2017-09-05 12:55:03.935  system_uptime:174935]
+    // Sending event #600
+:Sending Trackball (ACTION_MOVE): 0:(1.0,-3.0)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,2.0)
+:Sending Touch (ACTION_DOWN): 0:(673.0,1051.0)
+:Sending Touch (ACTION_UP): 0:(664.37024,1039.8804)
+:Sending Touch (ACTION_DOWN): 0:(296.0,557.0)
+:Sending Touch (ACTION_UP): 0:(286.73492,555.7112)
+:Sending Touch (ACTION_DOWN): 0:(266.0,1074.0)
+:Sending Touch (ACTION_UP): 0:(290.93582,1121.1129)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,4.0)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,-3.0)
+    // Allowing start of Intent { cmp=de.danoeh.antennapod/.activity.AudioplayerActivity } in package de.danoeh.antennapod
+:Sending Trackball (ACTION_MOVE): 0:(1.0,-5.0)
+:Sending Touch (ACTION_DOWN): 0:(647.0,803.0)
+:Sending Touch (ACTION_UP): 0:(671.15985,838.6614)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,0.0)
+    //[calendar_time:2017-09-05 12:55:05.008  system_uptime:176009]
+    // Sending event #700
+:Sending Touch (ACTION_DOWN): 0:(766.0,884.0)
+:Sending Touch (ACTION_UP): 0:(755.50354,883.8347)
+:Sending Touch (ACTION_DOWN): 0:(445.0,833.0)
+:Sending Touch (ACTION_UP): 0:(517.85443,780.64874)
+:Sending Touch (ACTION_DOWN): 0:(39.0,309.0)
+:Sending Touch (ACTION_UP): 0:(48.855545,307.67383)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,3.0)
+:Sending Touch (ACTION_DOWN): 0:(454.0,731.0)
+:Sending Touch (ACTION_UP): 0:(454.59082,728.06726)
+:Sending Touch (ACTION_DOWN): 0:(618.0,674.0)
+:Sending Touch (ACTION_UP): 0:(618.01294,675.3452)
+:Sending Touch (ACTION_DOWN): 0:(44.0,870.0)
+:Sending Touch (ACTION_UP): 0:(45.1195,873.2839)
+:Sending Touch (ACTION_DOWN): 0:(207.0,66.0)
+:Sending Touch (ACTION_UP): 0:(247.073,19.645054)
+:Sending Touch (ACTION_DOWN): 0:(196.0,1152.0)
+:Sending Touch (ACTION_UP): 0:(196.03127,1149.8179)
+:Sending Touch (ACTION_DOWN): 0:(443.0,919.0)
+:Sending Touch (ACTION_UP): 0:(413.83646,922.1424)
+:Sending Touch (ACTION_DOWN): 0:(570.0,1008.0)
+:Sending Touch (ACTION_UP): 0:(587.0133,1043.861)
+:Sending Touch (ACTION_DOWN): 0:(662.0,127.0)
+:Sending Touch (ACTION_UP): 0:(666.8678,124.52593)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,-1.0)
+    //[calendar_time:2017-09-05 12:55:05.853  system_uptime:176853]
+    // Sending event #800
+:Sending Touch (ACTION_DOWN): 0:(272.0,146.0)
+:Sending Touch (ACTION_UP): 0:(290.75873,152.92899)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,-5.0)
+:Sending Touch (ACTION_DOWN): 0:(538.0,679.0)
+:Sending Touch (ACTION_UP): 0:(533.6074,678.6913)
+:Sending Touch (ACTION_DOWN): 0:(545.0,203.0)
+:Sending Touch (ACTION_UP): 0:(540.19745,195.11668)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=de.danoeh.antennapod/.activity.MainActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=de.danoeh.antennapod/.activity.MainActivity } in package de.danoeh.antennapod
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,-3.0)
+:Sending Touch (ACTION_DOWN): 0:(283.0,119.0)
+:Sending Touch (ACTION_UP): 0:(376.2656,0.0)
+:Sending Flip keyboardOpen=true
+:Sending Touch (ACTION_DOWN): 0:(488.0,298.0)
+:Sending Touch (ACTION_UP): 0:(544.7078,274.8939)
+:Sending Touch (ACTION_DOWN): 0:(396.0,1076.0)
+:Sending Touch (ACTION_UP): 0:(398.99918,1075.5228)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,1.0)
+    //[calendar_time:2017-09-05 12:55:06.555  system_uptime:177555]
+    // Sending event #900
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=de.danoeh.antennapod/.activity.MainActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=de.danoeh.antennapod/.activity.MainActivity } in package de.danoeh.antennapod
+:Sending Touch (ACTION_DOWN): 0:(190.0,22.0)
+:Sending Touch (ACTION_UP): 0:(186.09952,38.7145)
+:Sending Touch (ACTION_DOWN): 0:(714.0,309.0)
+:Sending Touch (ACTION_UP): 0:(713.4411,317.98654)
+:Sending Touch (ACTION_DOWN): 0:(513.0,94.0)
+:Sending Touch (ACTION_UP): 0:(529.9703,141.91083)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,-2.0)
+:Sending Touch (ACTION_DOWN): 0:(299.0,623.0)
+:Sending Touch (ACTION_UP): 0:(299.51843,622.9773)
+:Sending Touch (ACTION_DOWN): 0:(160.0,335.0)
+:Sending Touch (ACTION_UP): 0:(194.68848,378.2979)
+:Sending Touch (ACTION_DOWN): 0:(742.0,707.0)
+:Sending Touch (ACTION_UP): 0:(743.1563,712.25757)
+:Sending Touch (ACTION_DOWN): 0:(369.0,1044.0)
+:Sending Touch (ACTION_UP): 0:(381.22565,1043.7233)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(228.0,717.0)
+:Sending Touch (ACTION_UP): 0:(220.9942,720.6799)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,3.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+    //[calendar_time:2017-09-05 12:55:07.442  system_uptime:178442]
+    // Sending event #1000
+    //[calendar_time:2017-09-05 12:55:07.442  system_uptime:178442]
+    // Sending event #1000
+:Sending Trackball (ACTION_MOVE): 0:(0.0,2.0)
+:Sending Touch (ACTION_DOWN): 0:(378.0,106.0)
+:Sending Touch (ACTION_UP): 0:(377.86255,107.39269)
+:Sending Touch (ACTION_DOWN): 0:(24.0,878.0)
+:Sending Touch (ACTION_UP): 0:(0.8561368,864.4809)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,3.0)
+:Sending Touch (ACTION_DOWN): 0:(252.0,206.0)
+:Sending Touch (ACTION_UP): 0:(268.43924,204.17813)
+:Sending Touch (ACTION_DOWN): 0:(485.0,824.0)
+:Sending Touch (ACTION_UP): 0:(467.57895,821.97455)
+:Sending Touch (ACTION_DOWN): 0:(107.0,1124.0)
+:Sending Touch (ACTION_UP): 0:(122.045906,1130.5446)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,-3.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(21.0,557.0)
+:Sending Touch (ACTION_UP): 0:(8.74324,546.4639)
+:Sending Touch (ACTION_DOWN): 0:(116.0,942.0)
+:Sending Touch (ACTION_UP): 0:(130.31976,949.2889)
+    // Allowing start of Intent { cmp=de.danoeh.antennapod/.activity.AudioplayerActivity } in package de.danoeh.antennapod
+:Sending Touch (ACTION_DOWN): 0:(321.0,1032.0)
+:Sending Touch (ACTION_UP): 0:(402.13892,910.43677)
+:Sending Touch (ACTION_DOWN): 0:(15.0,377.0)
+:Sending Touch (ACTION_UP): 0:(103.719925,321.59964)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,-5.0)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=de.danoeh.antennapod/.activity.MainActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=de.danoeh.antennapod/.activity.MainActivity } in package de.danoeh.antennapod
+    //[calendar_time:2017-09-05 12:55:08.191  system_uptime:179191]
+    // Sending event #1100
+    //[calendar_time:2017-09-05 12:55:08.191  system_uptime:179191]
+    // Sending event #1100
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,-3.0)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(128.0,149.0)
+:Sending Touch (ACTION_UP): 0:(128.22667,163.82253)
+:Sending Flip keyboardOpen=false
+:Sending Touch (ACTION_DOWN): 0:(182.0,1125.0)
+:Sending Touch (ACTION_UP): 0:(171.48357,1103.3639)
+:Sending Touch (ACTION_DOWN): 0:(517.0,317.0)
+:Sending Touch (ACTION_UP): 0:(516.32153,316.64072)
+:Sending Touch (ACTION_DOWN): 0:(537.0,370.0)
+:Sending Touch (ACTION_UP): 0:(535.9835,354.58295)
+    // Allowing start of Intent { cmp=de.danoeh.antennapod/.activity.AudioplayerActivity } in package de.danoeh.antennapod
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,4.0)
+:Sending Touch (ACTION_DOWN): 0:(89.0,257.0)
+:Sending Touch (ACTION_UP): 0:(89.916,254.8685)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,-1.0)
+:Sending Touch (ACTION_DOWN): 0:(696.0,707.0)
+:Sending Touch (ACTION_UP): 0:(717.27454,711.2802)
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.HOME] cmp=com.android.launcher3/.Launcher } in package com.android.launcher3
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=de.danoeh.antennapod/.activity.MainActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=de.danoeh.antennapod/.activity.MainActivity } in package de.danoeh.antennapod
+:Sending Touch (ACTION_DOWN): 0:(622.0,1133.0)
+    // Injection Failed
+:Sending Touch (ACTION_UP): 0:(625.1244,1134.4221)
+    // Injection Failed
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,-4.0)
+    //[calendar_time:2017-09-05 12:55:09.699  system_uptime:180699]
+    // Sending event #1200
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(55.0,752.0)
+:Sending Touch (ACTION_UP): 0:(53.184765,738.8864)
+:Sending Touch (ACTION_DOWN): 0:(547.0,595.0)
+:Sending Touch (ACTION_UP): 0:(547.40857,595.73315)
+:Sending Touch (ACTION_DOWN): 0:(510.0,52.0)
+:Sending Touch (ACTION_UP): 0:(510.4714,54.4329)
+:Sending Touch (ACTION_DOWN): 0:(166.0,355.0)
+:Sending Touch (ACTION_UP): 0:(119.936066,357.84833)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,0.0)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=de.danoeh.antennapod/.activity.MainActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=de.danoeh.antennapod/.activity.MainActivity } in package de.danoeh.antennapod
+    // Injection Failed
+:Sending Touch (ACTION_DOWN): 0:(474.0,76.0)
+:Sending Touch (ACTION_UP): 0:(480.6941,89.80926)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,4.0)
+:Sending Touch (ACTION_DOWN): 0:(522.0,714.0)
+:Sending Touch (ACTION_UP): 0:(509.7077,690.4642)
+:Sending Touch (ACTION_DOWN): 0:(299.0,368.0)
+:Sending Touch (ACTION_UP): 0:(301.12064,393.09137)
+:Sending Touch (ACTION_DOWN): 0:(110.0,563.0)
+:Sending Touch (ACTION_UP): 0:(106.25183,564.597)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(333.0,593.0)
+:Sending Touch (ACTION_UP): 0:(336.84836,599.803)
+:Sending Touch (ACTION_DOWN): 0:(70.0,353.0)
+:Sending Touch (ACTION_UP): 0:(71.81184,347.44608)
+:Sending Touch (ACTION_DOWN): 0:(628.0,797.0)
+:Sending Touch (ACTION_UP): 0:(647.98596,796.25824)
+:Sending Touch (ACTION_DOWN): 0:(507.0,1033.0)
+:Sending Touch (ACTION_UP): 0:(475.2449,1020.4321)
+:Sending Touch (ACTION_DOWN): 0:(50.0,603.0)
+    //[calendar_time:2017-09-05 12:55:10.646  system_uptime:181646]
+    // Sending event #1300
+:Sending Touch (ACTION_UP): 0:(41.609238,603.0765)
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.HOME] cmp=com.android.launcher3/.Launcher } in package com.android.launcher3
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,-5.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(196.0,852.0)
+:Sending Touch (ACTION_UP): 0:(191.59152,851.6393)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,-2.0)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,1.0)
+:Sending Touch (ACTION_DOWN): 0:(278.0,435.0)
+:Sending Touch (ACTION_UP): 0:(275.04834,444.83542)
+:Sending Touch (ACTION_DOWN): 0:(157.0,682.0)
+:Sending Touch (ACTION_UP): 0:(143.648,687.98315)
+:Sending Touch (ACTION_DOWN): 0:(46.0,979.0)
+:Sending Touch (ACTION_UP): 0:(16.686857,986.9863)
+:Sending Touch (ACTION_DOWN): 0:(135.0,1057.0)
+:Sending Touch (ACTION_UP): 0:(128.61508,1048.8077)
+:Sending Touch (ACTION_DOWN): 0:(630.0,296.0)
+:Sending Touch (ACTION_UP): 0:(625.4647,296.88193)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,-1.0)
+    // Injection Failed
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=de.danoeh.antennapod/.activity.MainActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=de.danoeh.antennapod/.activity.MainActivity } in package de.danoeh.antennapod
+:Sending Touch (ACTION_DOWN): 0:(577.0,413.0)
+:Sending Touch (ACTION_UP): 0:(582.6932,403.47293)
+:Sending Touch (ACTION_DOWN): 0:(378.0,127.0)
+:Sending Touch (ACTION_UP): 0:(378.0277,134.44409)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,-4.0)
+    // Allowing start of Intent { cmp=de.danoeh.antennapod/.activity.AudioplayerActivity } in package de.danoeh.antennapod
+:Sending Touch (ACTION_DOWN): 0:(317.0,933.0)
+    //[calendar_time:2017-09-05 12:55:11.537  system_uptime:182538]
+    // Sending event #1400
+:Sending Touch (ACTION_UP): 0:(318.21567,936.1688)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,-4.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.android.calendar/.AllInOneActivity } in package com.android.calendar
+    // Allowing start of Intent { cmp=de.danoeh.antennapod/.activity.MainActivity } in package de.danoeh.antennapod
+:Sending Touch (ACTION_DOWN): 0:(530.0,948.0)
+:Sending Touch (ACTION_UP): 0:(520.33185,949.86487)
+:Sending Touch (ACTION_DOWN): 0:(101.0,557.0)
+:Sending Touch (ACTION_UP): 0:(104.43009,555.69324)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,2.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(305.0,1101.0)
+:Sending Touch (ACTION_UP): 0:(307.43976,1096.5391)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,2.0)
+    // Allowing start of Intent { cmp=de.danoeh.antennapod/.activity.AudioplayerActivity } in package de.danoeh.antennapod
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,2.0)
+:Sending Touch (ACTION_DOWN): 0:(726.0,1125.0)
+:Sending Touch (ACTION_UP): 0:(728.7219,1108.5875)
+:Sending Touch (ACTION_DOWN): 0:(467.0,55.0)
+:Sending Touch (ACTION_UP): 0:(470.08917,62.04193)
+:Sending Touch (ACTION_DOWN): 0:(213.0,305.0)
+:Sending Touch (ACTION_UP): 0:(227.55536,305.86066)
+:Sending Touch (ACTION_DOWN): 0:(493.0,851.0)
+:Sending Touch (ACTION_UP): 0:(498.9332,847.2848)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,2.0)
+    //[calendar_time:2017-09-05 12:55:12.604  system_uptime:183604]
+    // Sending event #1500
+:Sending Trackball (ACTION_MOVE): 0:(2.0,-3.0)
+:Sending Touch (ACTION_DOWN): 0:(245.0,520.0)
+:Sending Touch (ACTION_UP): 0:(245.99263,518.82684)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,-3.0)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,-5.0)
+:Sending Touch (ACTION_DOWN): 0:(472.0,253.0)
+:Sending Touch (ACTION_UP): 0:(483.83353,238.23987)
+:Sending Touch (ACTION_DOWN): 0:(200.0,831.0)
+:Sending Touch (ACTION_UP): 0:(236.79152,846.56604)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,-3.0)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,-2.0)
+:Sending Touch (ACTION_DOWN): 0:(397.0,1144.0)
+:Sending Touch (ACTION_UP): 0:(397.93646,1140.1699)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,-5.0)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,-2.0)
+    //[calendar_time:2017-09-05 12:55:12.838  system_uptime:183838]
+    // Sending event #1600
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+    // Rejecting start of Intent { act=android.intent.action.VIEW dat=http://philosophizethis.libsyn.com/... cmp=com.android.browser/.BrowserActivity } in package com.android.browser
+:Sending Touch (ACTION_DOWN): 0:(431.0,291.0)
+:Sending Touch (ACTION_UP): 0:(431.22223,287.06714)
+:Sending Touch (ACTION_DOWN): 0:(72.0,220.0)
+:Sending Touch (ACTION_UP): 0:(4.9323416,192.3762)
+:Sending Touch (ACTION_DOWN): 0:(509.0,180.0)
+:Sending Touch (ACTION_UP): 0:(500.5838,214.77173)
+:Sending Touch (ACTION_DOWN): 0:(706.0,479.0)
+:Sending Touch (ACTION_UP): 0:(709.174,488.0494)
+:Sending Touch (ACTION_DOWN): 0:(353.0,704.0)
+:Sending Touch (ACTION_UP): 0:(220.74953,664.3688)
+:Sending Touch (ACTION_DOWN): 0:(424.0,48.0)
+:Sending Touch (ACTION_UP): 0:(417.0153,44.807438)
+:Sending Touch (ACTION_DOWN): 0:(501.0,900.0)
+:Sending Touch (ACTION_UP): 0:(501.97232,901.25586)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=de.danoeh.antennapod/.activity.MainActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=de.danoeh.antennapod/.activity.MainActivity } in package de.danoeh.antennapod
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,0.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(661.0,412.0)
+:Sending Touch (ACTION_UP): 0:(671.2533,419.4479)
+:Sending Touch (ACTION_DOWN): 0:(708.0,1073.0)
+:Sending Touch (ACTION_UP): 0:(708.4125,1073.0071)
+:Sending Touch (ACTION_DOWN): 0:(567.0,1082.0)
+:Sending Touch (ACTION_UP): 0:(584.00867,1076.895)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,-3.0)
+    // Allowing start of Intent { cmp=de.danoeh.antennapod/.activity.AudioplayerActivity } in package de.danoeh.antennapod
+:Sending Touch (ACTION_DOWN): 0:(528.0,511.0)
+:Sending Touch (ACTION_UP): 0:(528.0374,519.0557)
+    //[calendar_time:2017-09-05 12:55:13.875  system_uptime:184875]
+    // Sending event #1700
+    //[calendar_time:2017-09-05 12:55:13.875  system_uptime:184875]
+    // Sending event #1700
+:Sending Touch (ACTION_DOWN): 0:(348.0,436.0)
+:Sending Touch (ACTION_UP): 0:(311.60187,348.83698)
+// CRASH: de.danoeh.antennapod (pid 2218)
+// Short Msg: java.lang.NullPointerException
+// Long Msg: java.lang.NullPointerException: Attempt to invoke interface method 'android.view.MenuItem android.view.MenuItem.setVisible(boolean)' on a null object reference
+// Build Label: Android/vbox86p/vbox86p:6.0/MRA58K/genymotion03201937:userdebug/test-keys
+// Build Changelist: eng.genymotion.20170320.193527
+// Build Time: 1490038673000
+// java.lang.NullPointerException: Attempt to invoke interface method 'android.view.MenuItem android.view.MenuItem.setVisible(boolean)' on a null object reference
+// 	at de.danoeh.antennapod.activity.MediaplayerActivity.onPrepareOptionsMenu(MediaplayerActivity.java:301)
+// 	at android.app.Activity.onPreparePanel(Activity.java:2864)
+// 	at android.support.v4.app.FragmentActivity.onPrepareOptionsPanel(FragmentActivity.java:529)
+// 	at android.support.v4.app.FragmentActivity.onPreparePanel(FragmentActivity.java:518)
+// 	at android.support.v7.view.WindowCallbackWrapper.onPreparePanel(WindowCallbackWrapper.java:90)
+// 	at android.support.v7.app.AppCompatDelegateImplBase$AppCompatWindowCallbackBase.onPreparePanel(AppCompatDelegateImplBase.java:285)
+// 	at android.support.v7.view.WindowCallbackWrapper.onPreparePanel(WindowCallbackWrapper.java:90)
+// 	at android.support.v7.app.ToolbarActionBar$ToolbarCallbackWrapper.onPreparePanel(ToolbarActionBar.java:567)
+// 	at android.support.v7.app.ToolbarActionBar$ToolbarCallbackWrapper.onCreatePanelView(ToolbarActionBar.java:580)
+// 	at android.support.v7.app.AppCompatDelegateImplV7.preparePanel(AppCompatDelegateImplV7.java:1287)
+// 	at android.support.v7.app.AppCompatDelegateImplV7.onKeyDownPanel(AppCompatDelegateImplV7.java:1427)
+// 	at android.support.v7.app.AppCompatDelegateImplV7.onKeyDown(AppCompatDelegateImplV7.java:946)
+// 	at android.support.v7.app.AppCompatDelegateImplV7.dispatchKeyEvent(AppCompatDelegateImplV7.java:913)
+// 	at android.support.v7.app.AppCompatDelegateImplBase$AppCompatWindowCallbackBase.dispatchKeyEvent(AppCompatDelegateImplBase.java:241)
+// 	at android.support.v7.view.WindowCallbackWrapper.dispatchKeyEvent(WindowCallbackWrapper.java:50)
+// 	at com.android.internal.policy.PhoneWindow$DecorView.dispatchKeyEvent(PhoneWindow.java:2310)
+// 	at android.view.ViewRootImpl$ViewPostImeInputStage.processKeyEvent(ViewRootImpl.java:4127)
+// 	at android.view.ViewRootImpl$ViewPostImeInputStage.onProcess(ViewRootImpl.java:4089)
+// 	at android.view.ViewRootImpl$InputStage.deliver(ViewRootImpl.java:3642)
+// 	at android.view.ViewRootImpl$InputStage.onDeliverToNext(ViewRootImpl.java:3695)
+// 	at android.view.ViewRootImpl$InputStage.forward(ViewRootImpl.java:3661)
+// 	at android.view.ViewRootImpl$AsyncInputStage.forward(ViewRootImpl.java:3787)
+// 	at android.view.ViewRootImpl$InputStage.apply(ViewRootImpl.java:3669)
+// 	at android.view.ViewRootImpl$AsyncInputStage.apply(ViewRootImpl.java:3844)
+// 	at android.view.ViewRootImpl$InputStage.deliver(ViewRootImpl.java:3642)
+// 	at android.view.ViewRootImpl$InputStage.onDeliverToNext(ViewRootImpl.java:3695)
+// 	at android.view.ViewRootImpl$InputStage.forward(ViewRootImpl.java:3661)
+// 	at android.view.ViewRootImpl$InputStage.apply(ViewRootImpl.java:3669)
+// 	at android.view.ViewRootImpl$InputStage.deliver(ViewRootImpl.java:3642)
+// 	at android.view.ViewRootImpl$InputStage.onDeliverToNext(ViewRootImpl.java:3695)
+// 	at android.view.ViewRootImpl$InputStage.forward(ViewRootImpl.java:3661)
+// 	at android.view.ViewRootImpl$AsyncInputStage.forward(ViewRootImpl.java:3820)
+// 	at android.view.ViewRootImpl$ImeInputStage.onFinishedInputEvent(ViewRootImpl.java:3981)
+// 	at android.view.inputmethod.InputMethodManager$PendingEvent.run(InputMethodManager.java:2253)
+// 	at android.view.inputmethod.InputMethodManager.invokeFinishedInputEventCallback(InputMethodManager.java:1874)
+// 	at android.view.inputmethod.InputMethodManager.finishedInputEvent(InputMethodManager.java:1865)
+// 	at android.view.inputmethod.InputMethodManager$ImeInputEventSender.onInputEventFinished(InputMethodManager.java:2230)
+// 	at android.view.InputEventSender.dispatchInputEventFinished(InputEventSender.java:141)
+// 	at android.os.MessageQueue.nativePollOnce(Native Method)
+// 	at android.os.MessageQueue.next(MessageQueue.java:323)
+// 	at android.os.Looper.loop(Looper.java:135)
+// 	at android.app.ActivityThread.main(ActivityThread.java:5417)
+// 	at java.lang.reflect.Method.invoke(Native Method)
+// 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:726)
+// 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:616)
+// 
+    // Injection Failed
+** Monkey aborted due to error.
+Events injected: 1713
+:Sending rotation degree=0, persist=false
+:Dropped: keys=3 pointers=16 trackballs=0 flips=0 rotations=0
+## Network stats: elapsed time=15256ms (0ms mobile, 0ms wifi, 15256ms not connected)
+** System appears to have crashed at event 1713 of 100000 using seed 1504706864444
