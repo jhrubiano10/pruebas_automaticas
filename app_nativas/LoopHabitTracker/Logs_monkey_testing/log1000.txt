@@ -1,0 +1,94 @@
+:Monkey: seed=1504617746904 count=1000
+:AllowPackage: org.isoron.uhabits
+:IncludeCategory: android.intent.category.LAUNCHER
+:IncludeCategory: android.intent.category.MONKEY
+// Event percentages:
+//   0: 15.0%
+//   1: 10.0%
+//   2: 2.0%
+//   3: 15.0%
+//   4: -0.0%
+//   5: -0.0%
+//   6: 25.0%
+//   7: 15.0%
+//   8: 2.0%
+//   9: 2.0%
+//   10: 1.0%
+//   11: 13.0%
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=org.isoron.uhabits/.MainActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=org.isoron.uhabits/.MainActivity } in package org.isoron.uhabits
+:Sending Touch (ACTION_DOWN): 0:(243.0,692.0)
+:Sending Touch (ACTION_UP): 0:(311.3587,662.61444)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,-3.0)
+:Sending Touch (ACTION_DOWN): 0:(567.0,714.0)
+:Sending Touch (ACTION_UP): 0:(569.7843,700.1126)
+:Sending Touch (ACTION_DOWN): 0:(762.0,257.0)
+:Sending Touch (ACTION_UP): 0:(768.0,266.73022)
+:Sending Touch (ACTION_DOWN): 0:(147.0,783.0)
+:Sending Touch (ACTION_UP): 0:(142.68285,793.7172)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,-1.0)
+:Sending Touch (ACTION_DOWN): 0:(273.0,122.0)
+:Sending Touch (ACTION_UP): 0:(270.62262,121.6735)
+:Sending Touch (ACTION_DOWN): 0:(409.0,573.0)
+:Sending Touch (ACTION_UP): 0:(411.02524,568.0352)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,-1.0)
+:Sending Touch (ACTION_DOWN): 0:(279.0,708.0)
+:Sending Touch (ACTION_UP): 0:(253.16493,691.6095)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,3.0)
+    // Rejecting start of Intent { act=com.android.systemui.recents.SHOW_RECENTS cmp=com.android.systemui/.recents.RecentsActivity } in package com.android.systemui
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,-5.0)
+    //[calendar_time:2017-09-04 12:11:10.422  system_uptime:1634423]
+    // Sending event #100
+:Sending Touch (ACTION_DOWN): 0:(747.0,834.0)
+:Sending Touch (ACTION_UP): 0:(768.0,956.17975)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,-3.0)
+:Sending Touch (ACTION_DOWN): 0:(192.0,337.0)
+:Sending Touch (ACTION_UP): 0:(231.58861,302.23346)
+:Sending Touch (ACTION_DOWN): 0:(288.0,576.0)
+:Sending Touch (ACTION_UP): 0:(306.93552,558.86743)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,4.0)
+:Sending Touch (ACTION_DOWN): 0:(346.0,953.0)
+:Sending Touch (ACTION_UP): 0:(462.0143,1081.9384)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,3.0)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,-2.0)
+:Sending Touch (ACTION_DOWN): 0:(695.0,773.0)
+:Sending Touch (ACTION_UP): 0:(688.1964,773.4304)
+:Sending Touch (ACTION_DOWN): 0:(598.0,1133.0)
+    //[calendar_time:2017-09-04 12:11:10.590  system_uptime:1634590]
+    // Sending event #200
+:Sending Touch (ACTION_UP): 0:(601.99084,1167.605)
+// CRASH: org.isoron.uhabits (pid 1998)
+// Short Msg: android.content.ActivityNotFoundException
+// Long Msg: android.content.ActivityNotFoundException: No Activity found to handle Intent { act=android.intent.action.SENDTO dat=mailto:xxx@xxxxxxxxxx.xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx }
+// Build Label: Android/vbox86p/vbox86p:6.0/MRA58K/genymotion03201937:userdebug/test-keys
+// Build Changelist: eng.genymotion.20170320.193527
+// Build Time: 1490038673000
+// android.content.ActivityNotFoundException: No Activity found to handle Intent { act=android.intent.action.SENDTO dat=mailto:xxx@xxxxxxxxxx.xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx }
+// 	at android.app.Instrumentation.checkStartActivityResult(Instrumentation.java:1798)
+// 	at android.app.Instrumentation.execStartActivity(Instrumentation.java:1512)
+// 	at android.app.Activity.startActivityForResult(Activity.java:3917)
+// 	at android.support.v4.app.BaseFragmentActivityJB.startActivityForResult(BaseFragmentActivityJB.java:50)
+// 	at android.support.v4.app.FragmentActivity.startActivityForResult(FragmentActivity.java:79)
+// 	at android.app.Activity.startActivityForResult(Activity.java:3877)
+// 	at android.support.v4.app.FragmentActivity.startActivityForResult(FragmentActivity.java:859)
+// 	at android.app.Activity.startActivity(Activity.java:4200)
+// 	at android.app.Activity.startActivity(Activity.java:4168)
+// 	at org.isoron.uhabits.activities.about.AboutRootView.onClickFeedback(AboutRootView.java:94)
+// 	at org.isoron.uhabits.activities.about.AboutRootView$$ViewBinder$2.doClick(AboutRootView$$ViewBinder.java:35)
+// 	at butterknife.internal.DebouncingOnClickListener.onClick(DebouncingOnClickListener.java:22)
+// 	at android.view.View.performClick(View.java:5198)
+// 	at android.view.View$PerformClick.run(View.java:21147)
+// 	at android.os.Handler.handleCallback(Handler.java:739)
+// 	at android.os.Handler.dispatchMessage(Handler.java:95)
+// 	at android.os.Looper.loop(Looper.java:148)
+// 	at android.app.ActivityThread.main(ActivityThread.java:5417)
+// 	at java.lang.reflect.Method.invoke(Native Method)
+// 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:726)
+// 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:616)
+// 
+** Monkey aborted due to error.
+Events injected: 213
+:Sending rotation degree=0, persist=false
+:Dropped: keys=0 pointers=0 trackballs=0 flips=0 rotations=0
+## Network stats: elapsed time=456ms (0ms mobile, 0ms wifi, 456ms not connected)
+** System appears to have crashed at event 213 of 1000 using seed 1504617746904
