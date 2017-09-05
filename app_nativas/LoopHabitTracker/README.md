@@ -4,13 +4,11 @@ Una de las app nativas seleccionada fue [LoopHabitTracker], una app sencilla sob
 hábitos, facilitando lograr objetivos a largo plazo. La aplicación muestra con estadísticas y gráficos cómo se progresa en el desarrollo
 de dichos buenos hábitos.   
 
-(colocar imagen aquí)
+![LoopHabitTracker](https://github.com/jhrubiano10/pruebas_automaticas/blob/master/images/LoopHabitTracker/presentaci%C3%B3n.JPG)
 
 La estrategia de pruebas se encuentra descrita en la [Wiki]. 
 
-![KouChat Página](https://github.com/jhrubiano10/pruebas_automaticas/blob/master/images/KouChat/KouChat_Presentaci%C3%B3n.JPG)  
-
-Esta carpeta contendrá todas las pruebas realizadas sobre este aplicativo, cada carpeta identificará la herramienta utilizada.
+Esta carpeta contendrá todas las pruebas realizadas a esta app, cada carpeta identificará la herramienta utilizada.
 
 Autores.
 
