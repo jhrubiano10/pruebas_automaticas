@@ -161,6 +161,8 @@ Las capturas de pantalla de la aplicación en diferentes navegadores se puede ev
 Se ha hecho uso del serivio [Feng-GUI], éste genera un heat map (mapa de calor) donde es más probable que los ojos del visitante vayan primero.
 
 
+![headmap](https://github.com/jhrubiano10/pruebas_automaticas/blob/master/reporte_02/aplicativo_web/Feng-GUI/Feng-GUI.png?raw=true)
+
 
 ### Autores
 
