@@ -156,6 +156,11 @@ Las capturas de pantalla de la aplicación en diferentes navegadores se puede ev
 
 ![SeaMonkey](https://github.com/jhrubiano10/pruebas_automaticas/blob/master/reporte_02/aplicativo_web/browsershots/03_SeaMonkey%202.0.14_Debian.png?raw=true)
 
+## Prueba de tipo heat map test
+
+Se ha hecho uso del serivio [Feng-GUI], éste genera un heat map (mapa de calor) donde es más probable que los ojos del visitante vayan primero.
+
+
 
 ### Autores
 
@@ -177,3 +182,4 @@ MIT
 [SeaMonkey]:https://www.seamonkey-project.org/
 [Konqueror]:https://konqueror.org/features/browser.php
 [browsershots]:https://github.com/jhrubiano10/pruebas_automaticas/tree/master/reporte_02/aplicativo_web/browsershots
+[Feng-GUI]:http://www.feng-gui.com/
