@@ -32,13 +32,16 @@ Url vídeo: https://youtu.be/yGEgJjKEV5w
 
 Se han probado los siguientes casos de uso:
 
+![calabash](https://github.com/jhrubiano10/pruebas_automaticas/blob/master/reporte_02/aplicaciones_moviles/Calabash/Calabash_AntennaPod.gif?raw=true)
+
+
 * Agregar un Podcast
 * Buscar un Podcast.
 * Reproducir un Podcast
 * Marcar como favorito un Podcast.
 * Eliminar un Podcast
 
-Estas pasos se pueden evidenciar en el archivo de [features de la prueba] se han utilizado los [Steps Predefinidos] de Calabash
+Estas pasos se pueden evidenciar en el archivo de [features de la prueba] se han utilizado los [Steps Predefinidos] de Calabash.
 
 Url vídeo:https://youtu.be/2REi758YzrM
 
