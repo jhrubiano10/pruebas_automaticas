@@ -1,0 +1,16 @@
+{
+  "name": "crossbrowser",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Jorge Rubiano",
+  "license": "ISC",
+  "dependencies": {
+    "request": "^2.83.0",
+    "selenium-webdriver": "^3.6.0"
+  }
+}
