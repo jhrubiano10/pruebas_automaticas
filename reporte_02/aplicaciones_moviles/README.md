@@ -8,6 +8,10 @@ Haciendo uso del servicio [firebase test lab] se han probado las dos aplicacione
 
 ### AntenaPod
 
+![AntenaPod](https://github.com/jhrubiano10/pruebas_automaticas/blob/master/reporte_02/aplicaciones_moviles/firebase/AntennaPod/sitemap_10_API_19_AntenaPod.png?raw=true)
+
+**Dispositivos:**
+
 * Nexus 10 API 19
 * Nexus 7 (2012) API 19
 * Moto G Segunda Generación API 19
@@ -17,6 +21,10 @@ Haciendo uso del servicio [firebase test lab] se han probado las dos aplicacione
 Url vídeo: https://youtu.be/k0TMTHNlYB4
 
 ### Loop Habit Tracker
+
+![Loop](https://github.com/jhrubiano10/pruebas_automaticas/blob/master/reporte_02/aplicaciones_moviles/firebase/Loop%20Habit%20Tracker/sitemap.png?raw=true)
+
+**Dispositivos:**
 
 * HTC ONE M8 API 19
 * Nexus 5 API 23
