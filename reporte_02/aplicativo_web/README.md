@@ -132,7 +132,7 @@ El servicio [Cross Browser Testing] dependiendo de la configuración de la prueb
 ![report](https://github.com/jhrubiano10/pruebas_automaticas/blob/master/reporte_02/aplicativo_web/img/Ejemplo_reporte.png?raw=true)
 
 
-## Pruebas exploratorias.
+## Pruebas exploratorias en diferentes navegadores.
 
 Se ha realizado pruebas exploratorias de estilos de la aplicación en diferentes navegadores, se ha evidenciado que:
 
