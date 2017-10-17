@@ -138,7 +138,7 @@ Se ha realizado pruebas exploratorias de estilos de la aplicación en diferentes
 
 * Desde la versión 9.0 de Internet explorer la aplicación despliegue de la forma correcta.
 * En las versiones 5 y 6 la aplicación con certificado de seguridad no carga.
-* En antiguos la aplicación no se despliega de forma correcta como:
+* En antiguos navegadores la aplicación no se despliega de forma correcta como:
   * Internet Explorer 6,7,8
   * [SeaMonkey] 2.0 (Debian)
   * [Konqueror] 4.4 (Debian)
