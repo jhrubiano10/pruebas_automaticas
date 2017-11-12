@@ -1,0 +1,19 @@
+http://demo.opensourcebilling.org/
+click .btn_large.submit
+click //a[text()="New Invoice" or contains("http://demo.opensourcebilling.org/en/invoices/new",@href)]
+click .chzn-single.chzn-default.chzn-single-with-drop span
+click invoice_client_id_chzn_o_3
+click .chzn-single.chzn-single-with-drop span
+click invoice_currency_id_chzn_o_3
+click invoice_currency
+click .chzn-single.chzn-single-with-drop span
+click invoice_payment_terms_id_chzn_o_2
+click .chzn-single.chzn-default.chzn-single-with-drop span
+click invoice_invoice_line_items_attributes_0_item_id_chzn_o_3
+click invoice_invoice_line_items_attributes_0_item_description
+click invoice_invoice_line_items_attributes_1_item_description
+enter invoice_invoice_line_items_attributes_1_item_description as jhgjh
+click invoice_invoice_line_items_attributes_2_item_description
+enter invoice_invoice_line_items_attributes_2_item_description as jhjgjgh
+click .content_bottom .btn_large.submit:nth-child(1)
+wait 3.5 seconds

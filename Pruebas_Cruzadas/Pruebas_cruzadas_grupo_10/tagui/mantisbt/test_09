@@ -1,0 +1,32 @@
+http://54.175.176.113/my_view_page.php
+click .menu-icon.fa.fa-list-alt
+click //a[contains(text(),"Reportar incidencia") or contains("http://54.175.176.113/bug_report_page.php",@href)]
+click category_id
+click reproducibility
+select reproducibility as 100
+click severity
+select severity as 60
+click priority
+select priority as 60
+click handler_id
+select handler_id as 1
+click summary
+click summary
+enter summary as Prueba total de icncidencia
+enter description as LoreEs uana prueba de incidencia[enter][enter][enter][enter][enter][enter][enter][enter][enter][enter][enter][enter][enter][enter][enter][enter]FINAL
+click steps_to_reproduce
+enter steps_to_reproduce as UNO[enter]DOS[enter]TRES[enter]CUATRO[enter]CINCO[enter]SEIS[enter][enter][enter][enter][enter][enter][enter][enter][enter][enter][enter][enter][enter]FINAL
+click additional_info
+enter additional_info as [enter][enter][enter][enter][enter]FINAL
+click tag_string
+enter tag_string as uno,dos,tres
+click .btn.btn-primary.btn-white.btn-round
+click buglist tbody tr:nth-child(1) .lbl
+click buglist tbody tr:nth-child(1) .ace
+click bug_action select
+select bug_action select as RESOLVE
+click bug_action .form-inline.pull-left .btn.btn-primary.btn-white.btn-sm.btn-round
+click bugnote_text
+enter bugnote_text as SE HA RESUELTO LA INCIDENCIA
+click .btn.btn-primary.btn-white.btn-round
+wait 3.5 seconds

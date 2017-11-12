@@ -1,0 +1,10 @@
+http://54.175.176.113/login_page.php
+click username
+enter username as user
+click .width-40.pull-right.btn.btn-success.btn-inverse.bigger-110
+click password
+enter password as bitnami
+click .clearfix:nth-child(4) .lbl.padding-6
+click remember-login
+click .width-40.pull-right.btn.btn-success.btn-inverse.bigger-110
+wait 3.5 seconds

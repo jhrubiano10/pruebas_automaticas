@@ -1,0 +1,14 @@
+http://demo.opensourcebilling.org/
+click .btn_large.submit
+click //a[text()="Tasks" or contains("http://demo.opensourcebilling.org/en/tasks",@href)]
+click .primary_btn span
+click task_name
+enter task_name as uuuuwwwwhhhhwwwwhhhwwwhhhwwwhhhwssdads
+enter task_description as dasdjhadkahdskahdskjhasdhaskdhaksdhajksdhaksjdhaksdhkasjhdaksjdh
+enter task_rate as ssd45677843
+click .options_content_row:nth-child(4) label
+click company_179
+click company_178
+click .btn_large.submit.task-submit-btn
+click //a[text()="Tasks" or contains("http://demo.opensourcebilling.org/en/tasks",@href)]
+wait 3.5 seconds

@@ -1,0 +1,10 @@
+http://54.175.176.113/manage_overview_page.php
+click //a[text()="Administrar usuarios" or contains("http://54.175.176.113/manage_user_page.php",@href)]
+click .form-inline.inline.single-button-form button
+click user-username
+enter user-username as Test 03
+enter user-realname as Test Purueba 03
+enter email-field as test03@correo.com
+click .btn.btn-primary.btn-white.btn-round
+click //a[text()="Administrar usuarios" or contains("http://54.175.176.113/manage_user_page.php",@href)
+wait 3.5 seconds

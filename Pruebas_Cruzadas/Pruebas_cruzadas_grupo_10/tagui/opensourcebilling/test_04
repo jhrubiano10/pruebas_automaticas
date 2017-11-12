@@ -1,0 +1,14 @@
+http://demo.opensourcebilling.org/
+click .btn_large.submit
+click //a[text()="Staffs" or contains("http://demo.opensourcebilling.org/en/staffs",@href)]
+click .primary_btn span
+click staff_name
+enter staff_name as sdsjdsjdsjsdsjskdsdsjdsjdsjsdsjskdsdsjdsjdsjsdsjskdsdsjdsjdsjsdsjskd
+click staff_email
+enter staff_email as js@dsfsfsfsdsjdsjdsjsdsjskddddsdsjdsjdsjsdsjskd.com
+enter staff_rate as 12
+click company_178
+click company_180
+click company_182
+click .btn_large.submit.staff-submit-btn
+wait 3.5 seconds

@@ -1,0 +1,979 @@
+:Monkey: seed=1510594689775 count=1000000
+:AllowPackage: me.kuehle.carreport
+:IncludeCategory: android.intent.category.LAUNCHER
+:IncludeCategory: android.intent.category.MONKEY
+// Event percentages:
+//   0: 15.0%
+//   1: 10.0%
+//   2: 2.0%
+//   3: 15.0%
+//   4: -0.0%
+//   5: -0.0%
+//   6: 25.0%
+//   7: 15.0%
+//   8: 2.0%
+//   9: 2.0%
+//   10: 1.0%
+//   11: 13.0%
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=me.kuehle.carreport/.gui.MainActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=me.kuehle.carreport/.gui.MainActivity } in package me.kuehle.carreport
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,1.0)
+:Sending Touch (ACTION_DOWN): 0:(567.0,1347.0)
+:Sending Touch (ACTION_UP): 0:(559.41736,1339.4375)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,-4.0)
+:Sending Touch (ACTION_DOWN): 0:(841.0,211.0)
+:Sending Touch (ACTION_UP): 0:(837.14594,210.86194)
+:Sending Touch (ACTION_DOWN): 0:(1001.0,1691.0)
+:Sending Touch (ACTION_UP): 0:(943.3873,1668.0963)
+:Sending Touch (ACTION_DOWN): 0:(802.0,1022.0)
+:Sending Touch (ACTION_UP): 0:(800.11743,1022.6176)
+:Sending Touch (ACTION_DOWN): 0:(433.0,35.0)
+:Sending Touch (ACTION_UP): 0:(418.56888,50.32627)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,0.0)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,-2.0)
+:Sending Touch (ACTION_DOWN): 0:(406.0,814.0)
+:Sending Touch (ACTION_UP): 0:(417.1253,810.32684)
+:Sending Touch (ACTION_DOWN): 0:(174.0,951.0)
+:Sending Touch (ACTION_UP): 0:(163.4802,938.3046)
+:Sending Touch (ACTION_DOWN): 0:(84.0,1454.0)
+:Sending Touch (ACTION_UP): 0:(83.98884,1455.1084)
+:Sending Touch (ACTION_DOWN): 0:(651.0,1660.0)
+:Sending Touch (ACTION_UP): 0:(660.8062,1665.3009)
+    //[calendar_time:2017-11-12 13:47:26.020  system_uptime:1077648]
+    // Sending event #100
+    //[calendar_time:2017-11-12 13:47:26.020  system_uptime:1077648]
+    // Sending event #100
+:Sending Touch (ACTION_DOWN): 0:(849.0,1675.0)
+:Sending Touch (ACTION_UP): 0:(846.75964,1679.9246)
+:Sending Touch (ACTION_DOWN): 0:(557.0,1551.0)
+:Sending Touch (ACTION_UP): 0:(553.3391,1554.9453)
+:Sending Touch (ACTION_DOWN): 0:(974.0,625.0)
+:Sending Touch (ACTION_UP): 0:(1006.77844,542.81854)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,2.0)
+:Sending Touch (ACTION_DOWN): 0:(594.0,273.0)
+:Sending Touch (ACTION_UP): 0:(594.31256,273.961)
+:Sending Touch (ACTION_DOWN): 0:(809.0,409.0)
+:Sending Touch (ACTION_UP): 0:(840.8629,434.5479)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,-5.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,-2.0)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(552.0,1274.0)
+:Sending Touch (ACTION_UP): 0:(551.54974,1277.6407)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,-5.0)
+:Sending Touch (ACTION_DOWN): 0:(682.0,1642.0)
+:Sending Touch (ACTION_UP): 0:(683.59894,1626.7642)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=me.kuehle.carreport/.gui.MainActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=me.kuehle.carreport/.gui.MainActivity } in package me.kuehle.carreport
+:Sending Touch (ACTION_DOWN): 0:(271.0,96.0)
+    //[calendar_time:2017-11-12 13:47:28.298  system_uptime:1079927]
+    // Sending event #200
+:Sending Touch (ACTION_UP): 0:(273.2702,92.746895)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,-5.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,-4.0)
+:Sending Touch (ACTION_DOWN): 0:(845.0,335.0)
+:Sending Touch (ACTION_UP): 0:(920.0005,333.99753)
+:Sending Touch (ACTION_DOWN): 0:(865.0,4.0)
+:Sending Touch (ACTION_UP): 0:(922.6686,0.0)
+:Sending Touch (ACTION_DOWN): 0:(422.0,1471.0)
+:Sending Touch (ACTION_UP): 0:(400.0685,1464.5432)
+:Sending Touch (ACTION_DOWN): 0:(472.0,1474.0)
+:Sending Touch (ACTION_UP): 0:(493.46036,1497.7715)
+:Sending Touch (ACTION_DOWN): 0:(304.0,269.0)
+:Sending Touch (ACTION_UP): 0:(297.0441,272.25284)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=me.kuehle.carreport/.gui.MainActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=me.kuehle.carreport/.gui.MainActivity } in package me.kuehle.carreport
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,-1.0)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,-4.0)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,-4.0)
+    //[calendar_time:2017-11-12 13:47:29.661  system_uptime:1081289]
+    // Sending event #300
+:Sending Touch (ACTION_DOWN): 0:(461.0,285.0)
+:Sending Touch (ACTION_UP): 0:(460.91934,300.62598)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,3.0)
+:Sending Touch (ACTION_DOWN): 0:(417.0,472.0)
+:Sending Touch (ACTION_UP): 0:(416.77206,472.0201)
+:Sending Touch (ACTION_DOWN): 0:(960.0,565.0)
+:Sending Touch (ACTION_UP): 0:(958.4385,582.3073)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,-4.0)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,-2.0)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,-2.0)
+:Sending Touch (ACTION_DOWN): 0:(1047.0,694.0)
+:Sending Touch (ACTION_UP): 0:(1074.6835,723.6094)
+:Sending Touch (ACTION_DOWN): 0:(804.0,1571.0)
+:Sending Touch (ACTION_UP): 0:(820.4695,1573.2446)
+:Sending Touch (ACTION_DOWN): 0:(1064.0,780.0)
+:Sending Touch (ACTION_UP): 0:(1048.9805,876.8593)
+    //[calendar_time:2017-11-12 13:47:32.614  system_uptime:1084242]
+    // Sending event #400
+    //[calendar_time:2017-11-12 13:47:32.616  system_uptime:1084243]
+    // Sending event #400
+:Sending Touch (ACTION_DOWN): 0:(775.0,1209.0)
+:Sending Touch (ACTION_UP): 0:(766.231,1215.5846)
+:Sending Touch (ACTION_DOWN): 0:(770.0,1445.0)
+:Sending Touch (ACTION_UP): 0:(757.7335,1442.3888)
+:Sending Touch (ACTION_DOWN): 0:(196.0,1618.0)
+:Sending Touch (ACTION_UP): 0:(193.50209,1619.8279)
+:Sending Touch (ACTION_DOWN): 0:(290.0,1010.0)
+:Sending Touch (ACTION_UP): 0:(295.89813,1014.9872)
+    // Allowing start of Intent { cmp=me.kuehle.carreport/.gui.PreferencesActivity } in package me.kuehle.carreport
+:Sending Touch (ACTION_DOWN): 0:(148.0,879.0)
+:Sending Touch (ACTION_UP): 0:(164.76276,870.206)
+:Sending Touch (ACTION_DOWN): 0:(1073.0,65.0)
+:Sending Touch (ACTION_UP): 0:(1068.0184,0.0)
+:Sending Touch (ACTION_DOWN): 0:(225.0,1486.0)
+:Sending Touch (ACTION_UP): 0:(217.13399,1479.8601)
+:Sending Touch (ACTION_DOWN): 0:(1059.0,1425.0)
+:Sending Touch (ACTION_UP): 0:(1052.738,1412.164)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,2.0)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=me.kuehle.carreport/.gui.MainActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=me.kuehle.carreport/.gui.MainActivity } in package me.kuehle.carreport
+:Sending Trackball (ACTION_MOVE): 0:(1.0,-5.0)
+    // Allowing start of Intent { act=android.intent.action.MAIN cmp=me.kuehle.carreport/.gui.PreferencesActivity } in package me.kuehle.carreport
+:Sending Trackball (ACTION_MOVE): 0:(1.0,-4.0)
+:Sending Touch (ACTION_DOWN): 0:(72.0,1264.0)
+:Sending Touch (ACTION_UP): 0:(72.44895,1253.6702)
+:Sending Touch (ACTION_DOWN): 0:(678.0,271.0)
+:Sending Touch (ACTION_UP): 0:(690.93787,266.86716)
+:Sending Touch (ACTION_DOWN): 0:(996.0,1195.0)
+:Sending Touch (ACTION_UP): 0:(955.0919,1200.8357)
+    //[calendar_time:2017-11-12 13:47:35.426  system_uptime:1087055]
+    // Sending event #500
+    //[calendar_time:2017-11-12 13:47:35.428  system_uptime:1087056]
+    // Sending event #500
+:Sending Touch (ACTION_DOWN): 0:(64.0,66.0)
+:Sending Touch (ACTION_UP): 0:(67.837204,73.8563)
+:Sending Touch (ACTION_DOWN): 0:(140.0,1657.0)
+:Sending Touch (ACTION_UP): 0:(149.70998,1657.5914)
+:Sending Touch (ACTION_DOWN): 0:(947.0,492.0)
+:Sending Touch (ACTION_UP): 0:(948.98035,498.26486)
+:Sending Touch (ACTION_DOWN): 0:(115.0,1597.0)
+:Sending Touch (ACTION_UP): 0:(107.977585,1635.1888)
+:Sending Touch (ACTION_DOWN): 0:(908.0,1075.0)
+:Sending Touch (ACTION_UP): 0:(899.90704,1168.04)
+:Sending Touch (ACTION_DOWN): 0:(264.0,1614.0)
+:Sending Touch (ACTION_UP): 0:(218.0363,1651.0006)
+:Sending Touch (ACTION_DOWN): 0:(713.0,539.0)
+:Sending Touch (ACTION_UP): 0:(712.3843,543.29974)
+:Sending Touch (ACTION_DOWN): 0:(444.0,60.0)
+:Sending Touch (ACTION_UP): 0:(431.86746,33.359016)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,4.0)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,-2.0)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,3.0)
+    //[calendar_time:2017-11-12 13:47:36.646  system_uptime:1088274]
+    // Sending event #600
+:Sending Touch (ACTION_DOWN): 0:(555.0,27.0)
+:Sending Touch (ACTION_UP): 0:(554.74066,19.295359)
+:Sending Touch (ACTION_DOWN): 0:(1033.0,1742.0)
+:Sending Touch (ACTION_UP): 0:(1030.7422,1748.0397)
+:Sending Touch (ACTION_DOWN): 0:(525.0,1463.0)
+:Sending Touch (ACTION_UP): 0:(598.9336,1498.4714)
+:Sending Touch (ACTION_DOWN): 0:(294.0,190.0)
+:Sending Touch (ACTION_UP): 0:(260.62076,193.2182)
+:Sending Touch (ACTION_DOWN): 0:(174.0,76.0)
+:Sending Touch (ACTION_UP): 0:(198.36493,63.284897)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,-5.0)
+:Sending Touch (ACTION_DOWN): 0:(732.0,223.0)
+:Sending Touch (ACTION_UP): 0:(718.0813,216.54182)
+:Sending Touch (ACTION_DOWN): 0:(1009.0,711.0)
+:Sending Touch (ACTION_UP): 0:(1009.43494,713.89514)
+:Sending Touch (ACTION_DOWN): 0:(511.0,729.0)
+:Sending Touch (ACTION_UP): 0:(509.44955,727.9855)
+:Sending Touch (ACTION_DOWN): 0:(378.0,861.0)
+:Sending Touch (ACTION_UP): 0:(381.836,860.48596)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=me.kuehle.carreport/.gui.MainActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=me.kuehle.carreport/.gui.MainActivity } in package me.kuehle.carreport
+:Sending Touch (ACTION_DOWN): 0:(674.0,89.0)
+:Sending Touch (ACTION_UP): 0:(675.3544,88.73961)
+:Sending Touch (ACTION_DOWN): 0:(744.0,576.0)
+:Sending Touch (ACTION_UP): 0:(745.5351,571.8351)
+:Sending Touch (ACTION_DOWN): 0:(300.0,1618.0)
+:Sending Touch (ACTION_UP): 0:(306.2047,1606.0322)
+:Sending Touch (ACTION_DOWN): 0:(761.0,411.0)
+:Sending Touch (ACTION_UP): 0:(814.05237,459.0707)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=me.kuehle.carreport/.gui.MainActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=me.kuehle.carreport/.gui.MainActivity } in package me.kuehle.carreport
+:Sending Touch (ACTION_DOWN): 0:(662.0,1342.0)
+:Sending Touch (ACTION_UP): 0:(659.4387,1340.051)
+:Sending Touch (ACTION_DOWN): 0:(1062.0,1709.0)
+:Sending Touch (ACTION_UP): 0:(1056.2902,1733.5708)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=me.kuehle.carreport/.gui.MainActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=me.kuehle.carreport/.gui.MainActivity } in package me.kuehle.carreport
+:Sending Touch (ACTION_DOWN): 0:(353.0,246.0)
+    //[calendar_time:2017-11-12 13:47:37.637  system_uptime:1089266]
+    // Sending event #700
+:Sending Touch (ACTION_UP): 0:(431.52533,201.22585)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,4.0)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,1.0)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=me.kuehle.carreport/.gui.MainActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=me.kuehle.carreport/.gui.MainActivity } in package me.kuehle.carreport
+:Sending Touch (ACTION_DOWN): 0:(319.0,1142.0)
+:Sending Touch (ACTION_UP): 0:(318.91968,1143.4503)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,1.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+    // activityResuming(me.kuehle.carreport)
+:Sending Touch (ACTION_DOWN): 0:(302.0,1375.0)
+:Sending Touch (ACTION_UP): 0:(307.987,1365.6423)
+:Sending Touch (ACTION_DOWN): 0:(479.0,272.0)
+:Sending Touch (ACTION_UP): 0:(548.71423,182.38719)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=me.kuehle.carreport/.gui.MainActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=me.kuehle.carreport/.gui.MainActivity } in package me.kuehle.carreport
+:Sending Touch (ACTION_DOWN): 0:(1014.0,254.0)
+:Sending Touch (ACTION_UP): 0:(1008.10645,277.8566)
+:Sending Touch (ACTION_DOWN): 0:(262.0,819.0)
+:Sending Touch (ACTION_UP): 0:(258.77365,817.4396)
+:Sending Touch (ACTION_DOWN): 0:(1061.0,478.0)
+:Sending Touch (ACTION_UP): 0:(1060.3429,475.5279)
+:Sending Touch (ACTION_DOWN): 0:(282.0,1089.0)
+:Sending Touch (ACTION_UP): 0:(206.66966,1047.9363)
+    // Allowing start of Intent { act=android.intent.action.MAIN cmp=me.kuehle.carreport/.gui.PreferencesActivity } in package me.kuehle.carreport
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=me.kuehle.carreport/.gui.MainActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=me.kuehle.carreport/.gui.MainActivity } in package me.kuehle.carreport
+    //[calendar_time:2017-11-12 13:47:39.862  system_uptime:1091489]
+    // Sending event #800
+:Sending Touch (ACTION_DOWN): 0:(503.0,816.0)
+:Sending Touch (ACTION_UP): 0:(502.36954,839.6194)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,3.0)
+    // activityResuming(me.kuehle.carreport)
+:Sending Touch (ACTION_DOWN): 0:(497.0,1260.0)
+:Sending Touch (ACTION_UP): 0:(511.00876,1271.1361)
+:Sending Touch (ACTION_DOWN): 0:(394.0,1676.0)
+:Sending Touch (ACTION_UP): 0:(388.6163,1663.7888)
+:Sending Touch (ACTION_DOWN): 0:(798.0,85.0)
+:Sending Touch (ACTION_UP): 0:(795.75104,76.4024)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,1.0)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,-4.0)
+:Sending Touch (ACTION_DOWN): 0:(1034.0,1436.0)
+:Sending Touch (ACTION_UP): 0:(1028.1875,1445.3802)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,-2.0)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,-4.0)
+:Sending Touch (ACTION_DOWN): 0:(303.0,593.0)
+:Sending Touch (ACTION_UP): 0:(316.46527,579.55133)
+:Sending Touch (ACTION_DOWN): 0:(1015.0,1479.0)
+:Sending Touch (ACTION_UP): 0:(1017.79083,1476.0526)
+:Sending Touch (ACTION_DOWN): 0:(564.0,468.0)
+:Sending Touch (ACTION_UP): 0:(556.0593,491.3546)
+    //[calendar_time:2017-11-12 13:47:41.923  system_uptime:1093551]
+    // Sending event #900
+    //[calendar_time:2017-11-12 13:47:41.924  system_uptime:1093552]
+    // Sending event #900
+:Sending Touch (ACTION_DOWN): 0:(1004.0,1394.0)
+:Sending Touch (ACTION_UP): 0:(1005.8662,1392.5045)
+:Sending Touch (ACTION_DOWN): 0:(398.0,24.0)
+:Sending Touch (ACTION_UP): 0:(414.09122,55.78804)
+:Sending Touch (ACTION_DOWN): 0:(1023.0,755.0)
+:Sending Touch (ACTION_UP): 0:(1036.0211,744.1881)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,0.0)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,-5.0)
+    // Allowing start of Intent { act=android.intent.action.MAIN cmp=me.kuehle.carreport/.gui.PreferencesActivity } in package me.kuehle.carreport
+    // Rejecting start of Intent { act=android.intent.action.CALL_BUTTON cmp=com.android.dialer/.DialtactsActivity } in package com.android.dialer
+:Sending Touch (ACTION_DOWN): 0:(204.0,558.0)
+:Sending Touch (ACTION_UP): 0:(221.54146,556.00995)
+:Sending Touch (ACTION_DOWN): 0:(726.0,845.0)
+:Sending Touch (ACTION_UP): 0:(730.16156,854.4241)
+:Sending Flip keyboardOpen=false
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,-1.0)
+:Sending Touch (ACTION_DOWN): 0:(628.0,625.0)
+:Sending Touch (ACTION_UP): 0:(587.8007,592.7177)
+:Sending Touch (ACTION_DOWN): 0:(200.0,1141.0)
+:Sending Touch (ACTION_UP): 0:(183.04913,1132.699)
+:Sending Touch (ACTION_DOWN): 0:(818.0,1148.0)
+:Sending Touch (ACTION_UP): 0:(872.3773,1099.1708)
+    // activityResuming(me.kuehle.carreport)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,2.0)
+    //[calendar_time:2017-11-12 13:47:44.164  system_uptime:1095793]
+    // Sending event #1000
+:Sending Touch (ACTION_DOWN): 0:(577.0,677.0)
+:Sending Touch (ACTION_UP): 0:(578.32196,675.19385)
+:Sending Touch (ACTION_DOWN): 0:(917.0,971.0)
+:Sending Touch (ACTION_UP): 0:(931.5263,969.5351)
+:Sending Touch (ACTION_DOWN): 0:(968.0,745.0)
+:Sending Touch (ACTION_UP): 0:(978.1287,750.1084)
+:Sending Touch (ACTION_DOWN): 0:(875.0,238.0)
+:Sending Touch (ACTION_UP): 0:(774.7404,234.89769)
+    // Allowing start of Intent { act=android.intent.action.MAIN cmp=me.kuehle.carreport/.gui.PreferencesActivity } in package me.kuehle.carreport
+:Sending Touch (ACTION_DOWN): 0:(190.0,1126.0)
+:Sending Touch (ACTION_UP): 0:(186.10133,1123.9099)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,-2.0)
+:Sending Touch (ACTION_DOWN): 0:(725.0,751.0)
+:Sending Touch (ACTION_UP): 0:(758.90674,769.3338)
+:Sending Touch (ACTION_DOWN): 0:(1062.0,1070.0)
+:Sending Touch (ACTION_UP): 0:(1065.7666,1082.0839)
+:Sending Touch (ACTION_DOWN): 0:(228.0,560.0)
+:Sending Touch (ACTION_UP): 0:(227.87225,556.6833)
+:Sending Touch (ACTION_DOWN): 0:(399.0,1106.0)
+:Sending Touch (ACTION_UP): 0:(395.50885,1100.9673)
+:Sending Touch (ACTION_DOWN): 0:(85.0,100.0)
+:Sending Touch (ACTION_UP): 0:(91.99938,101.61453)
+    // activityResuming(me.kuehle.carreport)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=me.kuehle.carreport/.gui.MainActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=me.kuehle.carreport/.gui.MainActivity } in package me.kuehle.carreport
+:Sending Trackball (ACTION_MOVE): 0:(1.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(315.0,1465.0)
+:Sending Touch (ACTION_UP): 0:(304.45807,1466.1259)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,-3.0)
+    //[calendar_time:2017-11-12 13:47:48.762  system_uptime:1100390]
+    // Sending event #1100
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(6.0,1145.0)
+:Sending Touch (ACTION_UP): 0:(0.0,1147.0189)
+:Sending Touch (ACTION_DOWN): 0:(831.0,330.0)
+:Sending Touch (ACTION_UP): 0:(760.98096,372.70947)
+:Sending Touch (ACTION_DOWN): 0:(194.0,469.0)
+:Sending Touch (ACTION_UP): 0:(191.52914,468.43683)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=me.kuehle.carreport/.gui.MainActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=me.kuehle.carreport/.gui.MainActivity } in package me.kuehle.carreport
+    // Allowing start of Intent { act=android.intent.action.MAIN cmp=me.kuehle.carreport/.gui.PreferencesActivity } in package me.kuehle.carreport
+:Sending Touch (ACTION_DOWN): 0:(1036.0,179.0)
+:Sending Touch (ACTION_UP): 0:(1027.6584,174.30174)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,3.0)
+:Sending Touch (ACTION_DOWN): 0:(139.0,1420.0)
+:Sending Touch (ACTION_UP): 0:(161.64038,1441.1144)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,-4.0)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,4.0)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,-3.0)
+:Sending Touch (ACTION_DOWN): 0:(241.0,1628.0)
+:Sending Touch (ACTION_UP): 0:(255.83752,1649.5266)
+:Sending Touch (ACTION_DOWN): 0:(132.0,717.0)
+    //[calendar_time:2017-11-12 13:47:50.486  system_uptime:1102114]
+    // Sending event #1200
+:Sending Touch (ACTION_UP): 0:(123.17665,703.0397)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,-5.0)
+:Sending Touch (ACTION_DOWN): 0:(799.0,159.0)
+:Sending Touch (ACTION_UP): 0:(817.1332,164.4104)
+    // activityResuming(me.kuehle.carreport)
+:Sending Touch (ACTION_DOWN): 0:(198.0,1029.0)
+    // Injection Failed
+    // Injection Failed
+    // Injection Failed
+    // Injection Failed
+    // Injection Failed
+    // Injection Failed
+    // Injection Failed
+    // Injection Failed
+    // Injection Failed
+:Sending Touch (ACTION_UP): 0:(58.83372,1044.5156)
+    // Injection Failed
+:Sending Touch (ACTION_DOWN): 0:(18.0,1133.0)
+:Sending Touch (ACTION_UP): 0:(13.569895,1132.6683)
+:Sending Touch (ACTION_DOWN): 0:(974.0,1585.0)
+:Sending Touch (ACTION_UP): 0:(978.1455,1578.875)
+:Sending Touch (ACTION_DOWN): 0:(289.0,1214.0)
+:Sending Touch (ACTION_UP): 0:(278.55295,1214.1085)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,-2.0)
+:Sending Touch (ACTION_DOWN): 0:(600.0,207.0)
+:Sending Touch (ACTION_UP): 0:(614.67523,208.03836)
+:Sending Touch (ACTION_DOWN): 0:(340.0,534.0)
+:Sending Touch (ACTION_UP): 0:(340.59515,529.86395)
+:Sending Touch (ACTION_DOWN): 0:(447.0,221.0)
+:Sending Touch (ACTION_UP): 0:(436.868,192.22725)
+:Sending Touch (ACTION_DOWN): 0:(597.0,1429.0)
+:Sending Touch (ACTION_UP): 0:(584.2488,1413.0332)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,-5.0)
+    //[calendar_time:2017-11-12 13:47:52.901  system_uptime:1104529]
+    // Sending event #1300
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=me.kuehle.carreport/.gui.MainActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=me.kuehle.carreport/.gui.MainActivity } in package me.kuehle.carreport
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,2.0)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,1.0)
+:Sending Touch (ACTION_DOWN): 0:(433.0,1360.0)
+:Sending Touch (ACTION_UP): 0:(474.64575,1259.1951)
+:Sending Flip keyboardOpen=true
+:Sending Touch (ACTION_DOWN): 0:(342.0,1542.0)
+:Sending Touch (ACTION_UP): 0:(354.47107,1528.4811)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,1.0)
+    // activityResuming(me.kuehle.carreport)
+    // activityResuming(me.kuehle.carreport)
+:Sending Touch (ACTION_DOWN): 0:(142.0,533.0)
+:Sending Touch (ACTION_UP): 0:(133.91905,536.2793)
+:Sending Touch (ACTION_DOWN): 0:(310.0,1092.0)
+:Sending Touch (ACTION_UP): 0:(314.22473,1090.239)
+    // Rejecting start of Intent { act=android.search.action.GLOBAL_SEARCH cmp=com.android.quicksearchbox/.SearchActivity } in package com.android.quicksearchbox
+:Sending Touch (ACTION_DOWN): 0:(834.0,1195.0)
+:Sending Touch (ACTION_UP): 0:(842.99207,1181.2333)
+:Sending Touch (ACTION_DOWN): 0:(48.0,274.0)
+    //[calendar_time:2017-11-12 13:47:55.821  system_uptime:1107449]
+    // Sending event #1400
+:Sending Touch (ACTION_UP): 0:(23.705256,299.59268)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,2.0)
+    // Rejecting start of Intent { act=android.search.action.GLOBAL_SEARCH cmp=com.android.quicksearchbox/.SearchActivity } in package com.android.quicksearchbox
+:Sending Touch (ACTION_DOWN): 0:(490.0,893.0)
+:Sending Touch (ACTION_UP): 0:(495.4994,886.0097)
+    // Rejecting start of Intent { act=android.search.action.GLOBAL_SEARCH cmp=com.android.quicksearchbox/.SearchActivity } in package com.android.quicksearchbox
+:Sending Touch (ACTION_DOWN): 0:(313.0,823.0)
+:Sending Touch (ACTION_UP): 0:(319.88892,802.8555)
+:Sending Touch (ACTION_DOWN): 0:(410.0,76.0)
+:Sending Touch (ACTION_UP): 0:(416.47116,90.81434)
+    // Rejecting start of Intent { cmp=com.android.deskclock/.DeskClock } in package com.android.deskclock
+:Sending Touch (ACTION_DOWN): 0:(446.0,403.0)
+:Sending Touch (ACTION_UP): 0:(441.7182,379.15222)
+:Sending Touch (ACTION_DOWN): 0:(154.0,986.0)
+:Sending Touch (ACTION_UP): 0:(261.93503,1068.6669)
+    // Rejecting start of Intent { cmp=com.android.deskclock/.DeskClock } in package com.android.deskclock
+    // Rejecting start of Intent { act=android.search.action.GLOBAL_SEARCH cmp=com.android.quicksearchbox/.SearchActivity } in package com.android.quicksearchbox
+:Sending Flip keyboardOpen=false
+:Sending Trackball (ACTION_MOVE): 0:(2.0,3.0)
+:Sending Touch (ACTION_DOWN): 0:(81.0,1478.0)
+:Sending Touch (ACTION_UP): 0:(83.76327,1488.5814)
+:Sending Touch (ACTION_DOWN): 0:(939.0,1661.0)
+:Sending Touch (ACTION_UP): 0:(926.0908,1689.6125)
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] pkg=com.android.browser cmp=com.android.browser/.BrowserActivity } in package com.android.browser
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] pkg=com.android.dialer cmp=com.android.dialer/.DialtactsActivity } in package com.android.dialer
+:Sending Touch (ACTION_DOWN): 0:(482.0,955.0)
+:Sending Touch (ACTION_UP): 0:(429.7918,937.3481)
+:Sending Touch (ACTION_DOWN): 0:(799.0,1564.0)
+:Sending Touch (ACTION_UP): 0:(794.3279,1567.019)
+    // Rejecting start of Intent { cmp=com.android.launcher3/.SettingsActivity } in package com.android.launcher3
+    //[calendar_time:2017-11-12 13:47:57.351  system_uptime:1108979]
+    // Sending event #1500
+    //[calendar_time:2017-11-12 13:47:57.351  system_uptime:1108979]
+    // Sending event #1500
+:Sending Touch (ACTION_DOWN): 0:(370.0,1724.0)
+:Sending Touch (ACTION_UP): 0:(388.66202,1730.5872)
+:Sending Touch (ACTION_DOWN): 0:(226.0,321.0)
+:Sending Touch (ACTION_UP): 0:(216.84076,319.55685)
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.android.contacts/.activities.PeopleActivity } in package com.android.contacts
+:Sending Touch (ACTION_DOWN): 0:(951.0,462.0)
+:Sending Touch (ACTION_UP): 0:(954.0694,459.9386)
+:Sending Touch (ACTION_DOWN): 0:(1051.0,1446.0)
+:Sending Touch (ACTION_UP): 0:(934.78064,1328.8113)
+:Sending Touch (ACTION_DOWN): 0:(156.0,869.0)
+:Sending Touch (ACTION_UP): 0:(163.51321,856.8386)
+    // Rejecting start of Intent { act=android.search.action.GLOBAL_SEARCH cmp=com.android.quicksearchbox/.SearchActivity } in package com.android.quicksearchbox
+:Sending Touch (ACTION_DOWN): 0:(216.0,397.0)
+:Sending Touch (ACTION_UP): 0:(232.13815,319.71173)
+:Sending Touch (ACTION_DOWN): 0:(1063.0,1761.0)
+:Sending Touch (ACTION_UP): 0:(1020.3085,1776.0)
+:Sending Touch (ACTION_DOWN): 0:(825.0,334.0)
+:Sending Touch (ACTION_UP): 0:(797.0413,397.74808)
+:Sending Touch (ACTION_DOWN): 0:(1012.0,686.0)
+:Sending Touch (ACTION_UP): 0:(1017.51227,685.986)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,2.0)
+:Sending Touch (ACTION_DOWN): 0:(614.0,247.0)
+:Sending Touch (ACTION_UP): 0:(559.3358,279.04953)
+    // Rejecting start of Intent { act=android.search.action.GLOBAL_SEARCH cmp=com.android.quicksearchbox/.SearchActivity } in package com.android.quicksearchbox
+    //[calendar_time:2017-11-12 13:47:59.041  system_uptime:1110669]
+    // Sending event #1600
+    //[calendar_time:2017-11-12 13:47:59.042  system_uptime:1110670]
+    // Sending event #1600
+    // Rejecting start of Intent { act=android.search.action.GLOBAL_SEARCH cmp=com.android.quicksearchbox/.SearchActivity } in package com.android.quicksearchbox
+:Sending Touch (ACTION_DOWN): 0:(725.0,1554.0)
+:Sending Touch (ACTION_UP): 0:(722.6855,1554.2029)
+    // Rejecting start of Intent { cmp=com.android.launcher3/.SettingsActivity } in package com.android.launcher3
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] pkg=com.android.dialer cmp=com.android.dialer/.DialtactsActivity } in package com.android.dialer
+:Sending Touch (ACTION_DOWN): 0:(716.0,1343.0)
+:Sending Touch (ACTION_UP): 0:(776.212,1285.8933)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,2.0)
+:Sending Touch (ACTION_DOWN): 0:(1036.0,1185.0)
+:Sending Touch (ACTION_UP): 0:(1051.9548,1199.3666)
+:Sending Touch (ACTION_DOWN): 0:(1059.0,1429.0)
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] pkg=com.android.dialer cmp=com.android.dialer/.DialtactsActivity } in package com.android.dialer
+:Sending Touch (ACTION_UP): 0:(1080.0,1430.9772)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=me.kuehle.carreport/.gui.MainActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=me.kuehle.carreport/.gui.MainActivity } in package me.kuehle.carreport
+:Sending Touch (ACTION_DOWN): 0:(576.0,1177.0)
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] pkg=com.android.dialer cmp=com.android.dialer/.DialtactsActivity } in package com.android.dialer
+    // Injection Failed
+:Sending Touch (ACTION_UP): 0:(568.6635,1158.0314)
+    // Injection Failed
+:Sending Touch (ACTION_DOWN): 0:(491.0,1091.0)
+:Sending Touch (ACTION_UP): 0:(417.09164,1165.3553)
+:Sending Touch (ACTION_DOWN): 0:(253.0,447.0)
+:Sending Touch (ACTION_UP): 0:(252.41818,445.51636)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,-1.0)
+    //[calendar_time:2017-11-12 13:48:02.585  system_uptime:1114214]
+    // Sending event #1700
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,-4.0)
+:Sending Touch (ACTION_DOWN): 0:(1064.0,687.0)
+:Sending Touch (ACTION_UP): 0:(1061.508,672.1434)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,1.0)
+:Sending Touch (ACTION_DOWN): 0:(357.0,655.0)
+:Sending Touch (ACTION_UP): 0:(372.634,650.9842)
+    // Rejecting start of Intent { cmp=com.android.deskclock/.DeskClock } in package com.android.deskclock
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=me.kuehle.carreport/.gui.MainActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=me.kuehle.carreport/.gui.MainActivity } in package me.kuehle.carreport
+:Sending Touch (ACTION_DOWN): 0:(955.0,506.0)
+:Sending Touch (ACTION_UP): 0:(861.9504,376.5749)
+:Sending Touch (ACTION_DOWN): 0:(586.0,1535.0)
+:Sending Touch (ACTION_UP): 0:(588.20483,1540.6715)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,-1.0)
+:Sending Touch (ACTION_DOWN): 0:(765.0,337.0)
+:Sending Touch (ACTION_UP): 0:(768.0892,327.1916)
+:Sending Touch (ACTION_DOWN): 0:(570.0,1168.0)
+:Sending Touch (ACTION_UP): 0:(539.4653,1186.7527)
+:Sending Touch (ACTION_DOWN): 0:(432.0,982.0)
+:Sending Touch (ACTION_UP): 0:(435.98068,986.43604)
+:Sending Touch (ACTION_DOWN): 0:(336.0,1619.0)
+:Sending Touch (ACTION_UP): 0:(356.73566,1575.4596)
+    //[calendar_time:2017-11-12 13:48:06.873  system_uptime:1118501]
+    // Sending event #1800
+:Sending Touch (ACTION_DOWN): 0:(99.0,1231.0)
+:Sending Touch (ACTION_UP): 0:(104.44671,1214.3488)
+:Sending Touch (ACTION_DOWN): 0:(333.0,396.0)
+:Sending Touch (ACTION_UP): 0:(332.03882,396.57037)
+    // Rejecting start of Intent { cmp=com.android.deskclock/.DeskClock } in package com.android.deskclock
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=me.kuehle.carreport/.gui.MainActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=me.kuehle.carreport/.gui.MainActivity } in package me.kuehle.carreport
+:Sending Touch (ACTION_DOWN): 0:(138.0,1697.0)
+:Sending Touch (ACTION_UP): 0:(145.35403,1691.8726)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,1.0)
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.android.browser/.BrowserActivity } in package com.android.browser
+:Sending Touch (ACTION_DOWN): 0:(994.0,208.0)
+:Sending Touch (ACTION_UP): 0:(994.4262,200.63293)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,2.0)
+:Sending Touch (ACTION_DOWN): 0:(381.0,697.0)
+:Sending Touch (ACTION_UP): 0:(375.80814,685.9251)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,-5.0)
+:Sending Touch (ACTION_DOWN): 0:(946.0,1342.0)
+:Sending Touch (ACTION_UP): 0:(947.18884,1331.2072)
+:Sending Touch (ACTION_DOWN): 0:(685.0,451.0)
+:Sending Touch (ACTION_UP): 0:(693.8582,478.29886)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,-3.0)
+:Sending Touch (ACTION_DOWN): 0:(197.0,805.0)
+    //[calendar_time:2017-11-12 13:48:10.430  system_uptime:1122058]
+    // Sending event #1900
+:Sending Touch (ACTION_UP): 0:(206.93048,795.55383)
+:Sending Touch (ACTION_DOWN): 0:(973.0,370.0)
+:Sending Touch (ACTION_UP): 0:(980.4452,389.51523)
+:Sending Touch (ACTION_DOWN): 0:(618.0,1580.0)
+:Sending Touch (ACTION_UP): 0:(586.68005,1615.4501)
+:Sending Touch (ACTION_DOWN): 0:(113.0,695.0)
+:Sending Touch (ACTION_UP): 0:(112.95365,698.14386)
+:Sending Touch (ACTION_DOWN): 0:(397.0,987.0)
+:Sending Touch (ACTION_UP): 0:(314.29196,1008.9459)
+:Sending Flip keyboardOpen=true
+:Sending Touch (ACTION_DOWN): 0:(873.0,1471.0)
+:Sending Touch (ACTION_UP): 0:(874.295,1465.7234)
+:Sending Touch (ACTION_DOWN): 0:(295.0,1039.0)
+:Sending Touch (ACTION_UP): 0:(311.48312,1048.0658)
+:Sending Touch (ACTION_DOWN): 0:(274.0,610.0)
+:Sending Touch (ACTION_UP): 0:(385.90543,668.44293)
+:Sending Touch (ACTION_DOWN): 0:(60.0,1161.0)
+:Sending Touch (ACTION_UP): 0:(0.0,1258.4429)
+:Sending Touch (ACTION_DOWN): 0:(939.0,1655.0)
+:Sending Touch (ACTION_UP): 0:(937.65515,1654.4702)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,-1.0)
+:Sending Touch (ACTION_DOWN): 0:(94.0,965.0)
+    //[calendar_time:2017-11-12 13:48:12.684  system_uptime:1124311]
+    // Sending event #2000
+:Sending Touch (ACTION_UP): 0:(77.40052,984.2961)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,-4.0)
+:Sending Touch (ACTION_DOWN): 0:(40.0,1122.0)
+:Sending Touch (ACTION_UP): 0:(0.0,1194.8856)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,-3.0)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,3.0)
+:Sending Touch (ACTION_DOWN): 0:(804.0,38.0)
+:Sending Touch (ACTION_UP): 0:(809.3576,32.858105)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,-1.0)
+:Sending Touch (ACTION_DOWN): 0:(614.0,1775.0)
+:Sending Touch (ACTION_UP): 0:(614.35614,1772.4183)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,-4.0)
+:Sending Touch (ACTION_DOWN): 0:(909.0,234.0)
+:Sending Touch (ACTION_UP): 0:(901.6429,232.85611)
+:Sending Touch (ACTION_DOWN): 0:(725.0,408.0)
+    //[calendar_time:2017-11-12 13:48:14.572  system_uptime:1126199]
+    // Sending event #2100
+:Sending Touch (ACTION_UP): 0:(724.38556,408.45355)
+:Sending Touch (ACTION_DOWN): 0:(92.0,37.0)
+:Sending Touch (ACTION_UP): 0:(87.885086,36.73541)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,-3.0)
+:Sending Touch (ACTION_DOWN): 0:(453.0,800.0)
+:Sending Touch (ACTION_UP): 0:(405.75598,830.51056)
+:Sending Touch (ACTION_DOWN): 0:(511.0,1698.0)
+:Sending Touch (ACTION_UP): 0:(496.19263,1699.978)
+:Sending Touch (ACTION_DOWN): 0:(628.0,325.0)
+:Sending Touch (ACTION_UP): 0:(626.22943,285.14145)
+:Sending Touch (ACTION_DOWN): 0:(813.0,964.0)
+:Sending Touch (ACTION_UP): 0:(812.8964,984.2136)
+:Sending Touch (ACTION_DOWN): 0:(91.0,1049.0)
+:Sending Touch (ACTION_UP): 0:(89.293434,1065.731)
+:Sending Touch (ACTION_DOWN): 0:(318.0,770.0)
+:Sending Touch (ACTION_UP): 0:(303.97086,756.4356)
+:Sending Touch (ACTION_DOWN): 0:(749.0,1043.0)
+:Sending Touch (ACTION_UP): 0:(723.6591,1001.8984)
+:Sending Touch (ACTION_DOWN): 0:(532.0,1763.0)
+:Sending Touch (ACTION_UP): 0:(522.20825,1750.5155)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,-2.0)
+    //[calendar_time:2017-11-12 13:48:15.947  system_uptime:1127575]
+    // Sending event #2200
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,4.0)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,1.0)
+:Sending Touch (ACTION_DOWN): 0:(909.0,1053.0)
+:Sending Touch (ACTION_UP): 0:(969.00555,1094.5969)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,-1.0)
+:Sending Touch (ACTION_DOWN): 0:(788.0,1056.0)
+:Sending Touch (ACTION_UP): 0:(793.1038,1060.257)
+:Sending Touch (ACTION_DOWN): 0:(949.0,127.0)
+:Sending Touch (ACTION_UP): 0:(947.85565,137.73764)
+:Sending Touch (ACTION_DOWN): 0:(252.0,1331.0)
+:Sending Touch (ACTION_UP): 0:(201.05463,1337.4248)
+:Sending Touch (ACTION_DOWN): 0:(58.0,1288.0)
+:Sending Touch (ACTION_UP): 0:(49.85142,1289.0105)
+:Sending Touch (ACTION_DOWN): 0:(171.0,1707.0)
+:Sending Touch (ACTION_UP): 0:(140.40166,1712.4886)
+:Sending Touch (ACTION_DOWN): 0:(286.0,1678.0)
+:Sending Touch (ACTION_UP): 0:(289.10712,1677.531)
+:Sending Touch (ACTION_DOWN): 0:(553.0,888.0)
+:Sending Touch (ACTION_UP): 0:(553.98346,895.5675)
+:Sending Touch (ACTION_DOWN): 0:(461.0,624.0)
+:Sending Touch (ACTION_UP): 0:(424.9534,642.6591)
+:Sending Touch (ACTION_DOWN): 0:(283.0,113.0)
+    //[calendar_time:2017-11-12 13:48:16.833  system_uptime:1128461]
+    // Sending event #2300
+:Sending Touch (ACTION_UP): 0:(306.01865,102.535446)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,1.0)
+:Sending Touch (ACTION_DOWN): 0:(579.0,1018.0)
+:Sending Touch (ACTION_UP): 0:(591.7386,1021.43304)
+:Sending Touch (ACTION_DOWN): 0:(179.0,806.0)
+:Sending Touch (ACTION_UP): 0:(115.204094,757.2216)
+:Sending Touch (ACTION_DOWN): 0:(278.0,336.0)
+:Sending Touch (ACTION_UP): 0:(305.93753,357.23923)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,-1.0)
+:Sending Flip keyboardOpen=false
+:Sending Touch (ACTION_DOWN): 0:(1024.0,211.0)
+:Sending Touch (ACTION_UP): 0:(1027.3738,224.2188)
+:Sending Touch (ACTION_DOWN): 0:(971.0,1027.0)
+:Sending Touch (ACTION_UP): 0:(988.3037,1060.4255)
+:Sending Touch (ACTION_DOWN): 0:(612.0,840.0)
+:Sending Touch (ACTION_UP): 0:(612.908,822.04126)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=me.kuehle.carreport/.gui.MainActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=me.kuehle.carreport/.gui.MainActivity } in package me.kuehle.carreport
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.HOME] cmp=com.android.launcher3/.Launcher } in package com.android.launcher3
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,-2.0)
+:Sending Touch (ACTION_DOWN): 0:(652.0,654.0)
+:Sending Touch (ACTION_UP): 0:(662.40857,681.9327)
+:Sending Touch (ACTION_DOWN): 0:(331.0,1338.0)
+    //[calendar_time:2017-11-12 13:48:18.368  system_uptime:1129996]
+    // Sending event #2400
+:Sending Touch (ACTION_UP): 0:(249.0373,1222.7928)
+:Sending Touch (ACTION_DOWN): 0:(16.0,4.0)
+:Sending Touch (ACTION_UP): 0:(24.524416,2.693368)
+    // Injection Failed
+:Sending Touch (ACTION_DOWN): 0:(988.0,1337.0)
+:Sending Touch (ACTION_UP): 0:(988.2675,1355.4673)
+:Sending Flip keyboardOpen=true
+:Sending Touch (ACTION_DOWN): 0:(681.0,526.0)
+:Sending Touch (ACTION_UP): 0:(688.2733,525.60785)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=me.kuehle.carreport/.gui.MainActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=me.kuehle.carreport/.gui.MainActivity } in package me.kuehle.carreport
+:Sending Trackball (ACTION_MOVE): 0:(3.0,-4.0)
+:Sending Touch (ACTION_DOWN): 0:(194.0,79.0)
+:Sending Touch (ACTION_UP): 0:(176.47702,82.58293)
+:Sending Touch (ACTION_DOWN): 0:(436.0,1584.0)
+:Sending Touch (ACTION_UP): 0:(455.464,1576.9795)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=me.kuehle.carreport/.gui.MainActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=me.kuehle.carreport/.gui.MainActivity } in package me.kuehle.carreport
+:Sending Touch (ACTION_DOWN): 0:(961.0,865.0)
+:Sending Touch (ACTION_UP): 0:(982.19995,865.4615)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,-4.0)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,3.0)
+:Sending Touch (ACTION_DOWN): 0:(1034.0,1555.0)
+:Sending Touch (ACTION_UP): 0:(1028.2938,1549.368)
+:Sending Touch (ACTION_DOWN): 0:(770.0,684.0)
+:Sending Touch (ACTION_UP): 0:(772.4614,682.86975)
+:Sending Touch (ACTION_DOWN): 0:(841.0,1567.0)
+:Sending Touch (ACTION_UP): 0:(815.9093,1580.7501)
+    //[calendar_time:2017-11-12 13:48:20.209  system_uptime:1131836]
+    // Sending event #2500
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=me.kuehle.carreport/.gui.MainActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=me.kuehle.carreport/.gui.MainActivity } in package me.kuehle.carreport
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,-5.0)
+:Sending Touch (ACTION_DOWN): 0:(772.0,690.0)
+:Sending Touch (ACTION_UP): 0:(753.3897,699.19385)
+:Sending Touch (ACTION_DOWN): 0:(958.0,1133.0)
+:Sending Touch (ACTION_UP): 0:(974.4516,1186.3488)
+:Sending Touch (ACTION_DOWN): 0:(625.0,939.0)
+:Sending Touch (ACTION_UP): 0:(621.40967,936.5151)
+:Sending Touch (ACTION_DOWN): 0:(327.0,703.0)
+:Sending Touch (ACTION_UP): 0:(296.43073,680.7936)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,-3.0)
+:Sending Touch (ACTION_DOWN): 0:(1073.0,110.0)
+:Sending Touch (ACTION_UP): 0:(1049.1023,105.46248)
+:Sending Touch (ACTION_DOWN): 0:(973.0,1160.0)
+:Sending Touch (ACTION_UP): 0:(1008.70776,1124.7986)
+:Sending Touch (ACTION_DOWN): 0:(156.0,1486.0)
+:Sending Touch (ACTION_UP): 0:(135.38274,1509.0201)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,-5.0)
+    //[calendar_time:2017-11-12 13:48:22.207  system_uptime:1133835]
+    // Sending event #2600
+:Sending Touch (ACTION_DOWN): 0:(677.0,835.0)
+:Sending Touch (ACTION_UP): 0:(677.2154,838.20856)
+:Sending Touch (ACTION_DOWN): 0:(938.0,580.0)
+:Sending Touch (ACTION_UP): 0:(916.29706,548.30994)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,1.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(964.0,586.0)
+:Sending Touch (ACTION_UP): 0:(898.38165,626.5637)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,2.0)
+:Sending Touch (ACTION_DOWN): 0:(880.0,355.0)
+:Sending Touch (ACTION_UP): 0:(885.77386,357.8927)
+:Sending Touch (ACTION_DOWN): 0:(39.0,1559.0)
+:Sending Touch (ACTION_UP): 0:(103.99678,1570.3054)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,-2.0)
+:Sending Touch (ACTION_DOWN): 0:(804.0,1302.0)
+    //[calendar_time:2017-11-12 13:48:24.354  system_uptime:1135981]
+    // Sending event #2700
+:Sending Touch (ACTION_UP): 0:(783.80566,1355.3103)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(127.0,1023.0)
+:Sending Touch (ACTION_UP): 0:(150.98724,1011.1388)
+    // Allowing start of Intent { cmp=me.kuehle.carreport/.gui.PreferencesActivity } in package me.kuehle.carreport
+:Sending Touch (ACTION_DOWN): 0:(1026.0,1272.0)
+:Sending Touch (ACTION_UP): 0:(1022.9502,1270.4763)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,-5.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(99.0,1537.0)
+:Sending Touch (ACTION_UP): 0:(20.157398,1567.367)
+    // Allowing start of Intent { act=android.intent.action.MAIN cmp=me.kuehle.carreport/.gui.PreferencesActivity } in package me.kuehle.carreport
+:Sending Touch (ACTION_DOWN): 0:(187.0,159.0)
+:Sending Touch (ACTION_UP): 0:(187.69688,146.64693)
+:Sending Touch (ACTION_DOWN): 0:(117.0,1748.0)
+:Sending Touch (ACTION_UP): 0:(110.83401,1757.0393)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,-2.0)
+:Sending Touch (ACTION_DOWN): 0:(289.0,795.0)
+:Sending Touch (ACTION_UP): 0:(292.10602,793.42523)
+:Sending Touch (ACTION_DOWN): 0:(959.0,1563.0)
+:Sending Touch (ACTION_UP): 0:(955.77606,1533.105)
+:Sending Touch (ACTION_DOWN): 0:(319.0,1001.0)
+:Sending Touch (ACTION_UP): 0:(229.93076,882.08496)
+    //[calendar_time:2017-11-12 13:48:26.934  system_uptime:1138562]
+    // Sending event #2800
+    //[calendar_time:2017-11-12 13:48:26.934  system_uptime:1138562]
+    // Sending event #2800
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=me.kuehle.carreport/.gui.MainActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=me.kuehle.carreport/.gui.MainActivity } in package me.kuehle.carreport
+:Sending Touch (ACTION_DOWN): 0:(869.0,1520.0)
+:Sending Touch (ACTION_UP): 0:(868.2708,1529.427)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,-3.0)
+    // activityResuming(me.kuehle.carreport)
+:Sending Touch (ACTION_DOWN): 0:(776.0,601.0)
+    // Injection Failed
+:Sending Touch (ACTION_UP): 0:(792.12036,601.24194)
+    // Injection Failed
+:Sending Touch (ACTION_DOWN): 0:(789.0,496.0)
+:Sending Touch (ACTION_UP): 0:(765.5164,462.8467)
+    // Allowing start of Intent { act=android.intent.action.MAIN cmp=me.kuehle.carreport/.gui.PreferencesActivity } in package me.kuehle.carreport
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=me.kuehle.carreport/.gui.MainActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=me.kuehle.carreport/.gui.MainActivity } in package me.kuehle.carreport
+:Sending Trackball (ACTION_MOVE): 0:(4.0,4.0)
+:Sending Touch (ACTION_DOWN): 0:(965.0,1576.0)
+:Sending Touch (ACTION_UP): 0:(982.9665,1575.7365)
+:Sending Touch (ACTION_DOWN): 0:(309.0,1562.0)
+:Sending Touch (ACTION_UP): 0:(310.04163,1564.8918)
+:Sending Touch (ACTION_DOWN): 0:(440.0,288.0)
+:Sending Touch (ACTION_UP): 0:(566.37604,290.6137)
+:Sending Touch (ACTION_DOWN): 0:(644.0,771.0)
+:Sending Touch (ACTION_UP): 0:(661.63513,778.4375)
+:Sending Touch (ACTION_DOWN): 0:(223.0,584.0)
+:Sending Touch (ACTION_UP): 0:(211.72957,575.46936)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,4.0)
+    // Allowing start of Intent { cmp=me.kuehle.carreport/.gui.DataDetailActivity } in package me.kuehle.carreport
+    //[calendar_time:2017-11-12 13:48:30.568  system_uptime:1142196]
+    // Sending event #2900
+:Sending Touch (ACTION_DOWN): 0:(868.0,1207.0)
+:Sending Touch (ACTION_UP): 0:(779.6231,1122.5734)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,-3.0)
+:Sending Touch (ACTION_DOWN): 0:(323.0,1600.0)
+:Sending Touch (ACTION_UP): 0:(303.3692,1609.7904)
+:Sending Touch (ACTION_DOWN): 0:(279.0,1054.0)
+:Sending Touch (ACTION_UP): 0:(265.79398,1050.9569)
+:Sending Touch (ACTION_DOWN): 0:(371.0,1688.0)
+:Sending Touch (ACTION_UP): 0:(246.85007,1578.9768)
+:Sending Touch (ACTION_DOWN): 0:(596.0,614.0)
+:Sending Touch (ACTION_UP): 0:(579.9472,614.6673)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,-2.0)
+:Sending Touch (ACTION_DOWN): 0:(430.0,106.0)
+:Sending Touch (ACTION_UP): 0:(442.0898,117.215645)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=me.kuehle.carreport/.gui.MainActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=me.kuehle.carreport/.gui.MainActivity } in package me.kuehle.carreport
+:Sending Touch (ACTION_DOWN): 0:(516.0,467.0)
+:Sending Touch (ACTION_UP): 0:(506.82825,448.31348)
+:Sending Touch (ACTION_DOWN): 0:(48.0,67.0)
+:Sending Touch (ACTION_UP): 0:(0.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(1029.0,1205.0)
+:Sending Touch (ACTION_UP): 0:(1024.7808,1219.8202)
+:Sending Touch (ACTION_DOWN): 0:(118.0,10.0)
+:Sending Touch (ACTION_UP): 0:(122.80417,10.555394)
+:Sending Touch (ACTION_DOWN): 0:(159.0,246.0)
+:Sending Touch (ACTION_UP): 0:(150.02238,240.56888)
+    //[calendar_time:2017-11-12 13:48:32.441  system_uptime:1144069]
+    // Sending event #3000
+    //[calendar_time:2017-11-12 13:48:32.442  system_uptime:1144069]
+    // Sending event #3000
+:Sending Touch (ACTION_DOWN): 0:(837.0,554.0)
+:Sending Touch (ACTION_UP): 0:(836.43353,560.29834)
+:Sending Touch (ACTION_DOWN): 0:(620.0,890.0)
+:Sending Touch (ACTION_UP): 0:(611.4888,890.0291)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,3.0)
+:Sending Touch (ACTION_DOWN): 0:(942.0,279.0)
+:Sending Touch (ACTION_UP): 0:(941.16284,276.06616)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,2.0)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,0.0)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=me.kuehle.carreport/.gui.MainActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=me.kuehle.carreport/.gui.MainActivity } in package me.kuehle.carreport
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,-1.0)
+    //[calendar_time:2017-11-12 13:48:34.673  system_uptime:1146301]
+    // Sending event #3100
+    //[calendar_time:2017-11-12 13:48:34.674  system_uptime:1146302]
+    // Sending event #3100
+:Sending Trackball (ACTION_MOVE): 0:(2.0,1.0)
+:Sending Touch (ACTION_DOWN): 0:(745.0,1309.0)
+:Sending Touch (ACTION_UP): 0:(757.31146,1313.4994)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,-4.0)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,0.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=me.kuehle.carreport/.gui.MainActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=me.kuehle.carreport/.gui.MainActivity } in package me.kuehle.carreport
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,2.0)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,1.0)
+:Sending Touch (ACTION_DOWN): 0:(946.0,832.0)
+:Sending Touch (ACTION_UP): 0:(945.0351,850.1991)
+:Sending Touch (ACTION_DOWN): 0:(646.0,327.0)
+:Sending Touch (ACTION_UP): 0:(632.70905,329.3554)
+:Sending Touch (ACTION_DOWN): 0:(959.0,890.0)
+:Sending Touch (ACTION_UP): 0:(962.0493,892.13605)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,-3.0)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,-1.0)
+:Sending Touch (ACTION_DOWN): 0:(676.0,527.0)
+:Sending Touch (ACTION_UP): 0:(669.7255,538.6401)
+    //[calendar_time:2017-11-12 13:48:35.553  system_uptime:1147181]
+    // Sending event #3200
+    //[calendar_time:2017-11-12 13:48:35.553  system_uptime:1147181]
+    // Sending event #3200
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,1.0)
+:Sending Touch (ACTION_DOWN): 0:(622.0,56.0)
+:Sending Touch (ACTION_UP): 0:(619.8731,76.986015)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,-2.0)
+:Sending Touch (ACTION_DOWN): 0:(133.0,843.0)
+:Sending Touch (ACTION_UP): 0:(136.51164,841.0013)
+:Sending Touch (ACTION_DOWN): 0:(597.0,1554.0)
+:Sending Touch (ACTION_UP): 0:(573.45245,1504.1788)
+:Sending Touch (ACTION_DOWN): 0:(331.0,759.0)
+:Sending Touch (ACTION_UP): 0:(359.5019,762.3828)
+:Sending Touch (ACTION_DOWN): 0:(965.0,1765.0)
+:Sending Touch (ACTION_UP): 0:(977.6097,1687.784)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,2.0)
+:Sending Touch (ACTION_DOWN): 0:(862.0,1547.0)
+:Sending Touch (ACTION_UP): 0:(858.12683,1551.2656)
+    // Rejecting start of Intent { act=android.intent.action.CALL_BUTTON cmp=com.android.dialer/.DialtactsActivity } in package com.android.dialer
+:Sending Touch (ACTION_DOWN): 0:(479.0,1746.0)
+:Sending Touch (ACTION_UP): 0:(505.24255,1624.5701)
+:Sending Touch (ACTION_DOWN): 0:(128.0,864.0)
+:Sending Touch (ACTION_UP): 0:(121.42492,866.9982)
+:Sending Touch (ACTION_DOWN): 0:(850.0,1771.0)
+:Sending Touch (ACTION_UP): 0:(862.44696,1741.1765)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,-5.0)
+    //[calendar_time:2017-11-12 13:48:36.961  system_uptime:1148589]
+    // Sending event #3300
+:Sending Touch (ACTION_DOWN): 0:(537.0,852.0)
+:Sending Touch (ACTION_UP): 0:(545.73755,858.34546)
+:Sending Touch (ACTION_DOWN): 0:(983.0,1089.0)
+:Sending Touch (ACTION_UP): 0:(981.1491,1096.2489)
+:Sending Touch (ACTION_DOWN): 0:(208.0,897.0)
+:Sending Touch (ACTION_UP): 0:(211.44176,856.8694)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=me.kuehle.carreport/.gui.MainActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=me.kuehle.carreport/.gui.MainActivity } in package me.kuehle.carreport
+    // Rejecting start of Intent { act=android.intent.action.SHOW_BRIGHTNESS_DIALOG cmp=com.android.systemui/.settings.BrightnessDialog } in package com.android.systemui
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,4.0)
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.android.contacts/.activities.PeopleActivity } in package com.android.contacts
+:Sending Touch (ACTION_DOWN): 0:(515.0,1638.0)
+:Sending Touch (ACTION_UP): 0:(536.9565,1601.2429)
+:Sending Touch (ACTION_DOWN): 0:(828.0,1465.0)
+:Sending Touch (ACTION_UP): 0:(831.4732,1461.3905)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(557.0,646.0)
+:Sending Touch (ACTION_UP): 0:(581.639,679.1311)
+:Sending Touch (ACTION_DOWN): 0:(334.0,1421.0)
+:Sending Touch (ACTION_UP): 0:(328.1483,1428.1049)
+:Sending Touch (ACTION_DOWN): 0:(803.0,923.0)
+:Sending Touch (ACTION_UP): 0:(796.41455,928.6962)
+:Sending Touch (ACTION_DOWN): 0:(15.0,1377.0)
+:Sending Touch (ACTION_UP): 0:(15.048631,1373.9282)
+:Sending Touch (ACTION_DOWN): 0:(61.0,1475.0)
+    //[calendar_time:2017-11-12 13:48:37.981  system_uptime:1149612]
+    // Sending event #3400
+:Sending Touch (ACTION_UP): 0:(84.884445,1556.6794)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,2.0)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,2.0)
+:Sending Touch (ACTION_DOWN): 0:(466.0,172.0)
+:Sending Touch (ACTION_UP): 0:(466.0062,154.81734)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,0.0)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,4.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(639.0,969.0)
+:Sending Touch (ACTION_UP): 0:(543.8799,872.1543)
+:Sending Touch (ACTION_DOWN): 0:(377.0,1581.0)
+:Sending Touch (ACTION_UP): 0:(361.77887,1584.2086)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,1.0)
+    //[calendar_time:2017-11-12 13:48:39.103  system_uptime:1150731]
+    // Sending event #3500
+:Sending Touch (ACTION_DOWN): 0:(59.0,856.0)
+:Sending Touch (ACTION_UP): 0:(105.63598,883.4119)
+:Sending Touch (ACTION_DOWN): 0:(282.0,821.0)
+:Sending Touch (ACTION_UP): 0:(278.64447,818.27924)
+:Sending Touch (ACTION_DOWN): 0:(575.0,1635.0)
+:Sending Touch (ACTION_UP): 0:(572.29834,1633.4172)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,1.0)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,0.0)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,-4.0)
+:Sending Touch (ACTION_DOWN): 0:(274.0,285.0)
+:Sending Touch (ACTION_UP): 0:(285.35303,294.27515)
+:Sending Touch (ACTION_DOWN): 0:(858.0,1410.0)
+:Sending Touch (ACTION_UP): 0:(845.5883,1427.6005)
+:Sending Touch (ACTION_DOWN): 0:(382.0,1280.0)
+:Sending Touch (ACTION_UP): 0:(394.1821,1269.738)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,-2.0)
+:Sending Touch (ACTION_DOWN): 0:(200.0,1660.0)
+:Sending Touch (ACTION_UP): 0:(202.16176,1666.2538)
+:Sending Touch (ACTION_DOWN): 0:(980.0,1718.0)
+:Sending Touch (ACTION_UP): 0:(928.33563,1773.3525)
+:Sending Touch (ACTION_DOWN): 0:(363.0,640.0)
+:Sending Touch (ACTION_UP): 0:(363.04697,638.5695)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=me.kuehle.carreport/.gui.MainActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=me.kuehle.carreport/.gui.MainActivity } in package me.kuehle.carreport
+:Sending Touch (ACTION_DOWN): 0:(285.0,90.0)
+:Sending Touch (ACTION_UP): 0:(284.89233,82.88502)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,3.0)
+    //[calendar_time:2017-11-12 13:48:40.650  system_uptime:1152277]
+    // Sending event #3600
+:Sending Trackball (ACTION_MOVE): 0:(4.0,2.0)
+:Sending Touch (ACTION_DOWN): 0:(528.0,948.0)
+:Sending Touch (ACTION_UP): 0:(540.66614,991.2619)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(399.0,1727.0)
+:Sending Touch (ACTION_UP): 0:(413.46533,1728.2593)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,-4.0)
+:Sending Touch (ACTION_DOWN): 0:(560.0,993.0)
+:Sending Touch (ACTION_UP): 0:(565.3556,992.1298)
+:Sending Touch (ACTION_DOWN): 0:(395.0,381.0)
+:Sending Touch (ACTION_UP): 0:(375.4539,376.25977)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,2.0)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=me.kuehle.carreport/.gui.MainActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=me.kuehle.carreport/.gui.MainActivity } in package me.kuehle.carreport
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=me.kuehle.carreport/.gui.MainActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=me.kuehle.carreport/.gui.MainActivity } in package me.kuehle.carreport
+:Sending Touch (ACTION_DOWN): 0:(153.0,1385.0)
+:Sending Touch (ACTION_UP): 0:(139.46014,1384.3535)
+    //[calendar_time:2017-11-12 13:48:43.486  system_uptime:1155114]
+    // Sending event #3700
+:Sending Touch (ACTION_DOWN): 0:(91.0,1539.0)
+:Sending Touch (ACTION_UP): 0:(85.90345,1478.2727)
+:Sending Touch (ACTION_DOWN): 0:(738.0,482.0)
+:Sending Touch (ACTION_UP): 0:(747.5328,499.41318)
+:Sending Touch (ACTION_DOWN): 0:(158.0,252.0)
+:Sending Touch (ACTION_UP): 0:(173.15778,247.66829)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=me.kuehle.carreport/.gui.MainActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=me.kuehle.carreport/.gui.MainActivity } in package me.kuehle.carreport
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(613.0,1675.0)
+:Sending Touch (ACTION_UP): 0:(615.3697,1675.7087)
+:Sending Touch (ACTION_DOWN): 0:(784.0,555.0)
+:Sending Touch (ACTION_UP): 0:(778.69806,541.76764)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=me.kuehle.carreport/.gui.MainActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=me.kuehle.carreport/.gui.MainActivity } in package me.kuehle.carreport
+:Sending Touch (ACTION_DOWN): 0:(97.0,2.0)
+:Sending Touch (ACTION_UP): 0:(98.953835,11.653211)
+:Sending Touch (ACTION_DOWN): 0:(30.0,331.0)
+:Sending Touch (ACTION_UP): 0:(27.320498,328.35028)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,1.0)

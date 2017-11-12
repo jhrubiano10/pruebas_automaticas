@@ -1,0 +1,33 @@
+http://54.175.176.113/login_page.php
+click username
+enter username as user
+click .width-40.pull-right.btn.btn-success.btn-inverse.bigger-110
+click password
+enter password as bitnami
+click .clearfix:nth-child(4) .lbl.padding-6
+click .width-40.pull-right.btn.btn-success.btn-inverse.bigger-110
+click //a[contains(text(),"Reportar incidencia") or contains("http://54.175.176.113/bug_report_page.php",@href)]
+click category_id
+click reproducibility
+select reproducibility as 50
+click severity
+select severity as 60
+click priority
+select priority as 40
+click handler_id
+select handler_id as 1
+click summary
+enter summary as Esta es una prueba de incidencia <script>alert(0);</script>
+click description
+enter description as Pruebas de incidencia Para ver que pasa, <script>alert(1);</script>
+click steps_to_reproduce
+enter steps_to_reproduce as Uno[enter]dos[enter]tres[enter]<script>alert(2);</script>
+click additional_info
+enter additional_info as <script>alert(3)</script>
+click tag_string
+enter tag_string as uno,dos,tres
+click .table.table-bordered.table-condensed tr:nth-child(14) .lbl.padding-6
+click report_stay
+click .btn.btn-primary.btn-white.btn-round
+click .nav.nav-list li:nth-child(2) .menu-text
+wait 3.5 seconds

@@ -1,0 +1,13 @@
+http://demo.opensourcebilling.org/demo
+click .btn_large.submit
+click body
+click //a[text()="Items Listing" or contains("http://demo.opensourcebilling.org/en/items",@href)]
+click .primary_btn span
+click item_item_name
+enter item_item_name as <script>alert(100);</script>
+enter item_item_description as <script>alert(2000);</script>
+enter item_unit_cost as 10
+enter item_quantity as 2
+click account_association
+click .content_bottom .btn_large.submit
+wait 3.5 seconds

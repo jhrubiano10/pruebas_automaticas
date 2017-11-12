@@ -1,0 +1,10 @@
+http://54.175.176.113/my_view_page.php
+click .menu-icon.fa.fa-gears
+click //a[text()="Administrar etiquetas" or contains("http://54.175.176.113/manage_tags_page.php",@href)]
+click //a[text()="Crear etiqueta" or contains("http://54.175.176.113/manage_tags_page.php#tagcreate",@href)]
+click tag-name
+enter tag-name as PRICIPAL, etiquetdas doces,repación, arreglos
+click tag-description
+enter tag-description as Son nuevas etiquetas de pruebas, nuevas pruebas
+click manage-tags-create-form .btn.btn-primary.btn-sm.btn-white.btn-round
+wait 3.5 seconds

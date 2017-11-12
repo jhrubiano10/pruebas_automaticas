@@ -1,0 +1,19 @@
+http://demo.opensourcebilling.org/users/sign_in
+click .btn_large.submit
+click .nav_container
+click //a[text()="Clients Listing" or contains("http://demo.opensourcebilling.org/en/clients",@href)]
+click .primary_btn span
+click client_organization_name
+enter client_organization_name as jsjshasjsahjsajsajhsajksahjsa asjksabdakjdakjdsbakjsdbakjdbkjasbdkasbd
+click client_email
+enter client_email as asdjadsasdasdas@dsdadasdad.com
+enter client_business_phone as 123456791112345678890000000
+enter client_first_name as shshshasdasjdgashdgahsjdgajhdgajdsgajsdgjahsdgajdshgdjagdj
+enter client_last_name as sdashdgajdgajhdsgajhdsgjahsgdjhagsdjahsgdjasgdjashgdaj
+enter client_mobile_number as 323452342342
+click available_credit
+enter available_credit as 20000
+click .fields_content:nth-child(1) .options_content_row:nth-child(1) label
+click account_association
+click .content_bottom .btn_large.submit
+wait 3.5 seconds
