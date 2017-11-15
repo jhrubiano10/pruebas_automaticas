@@ -1,0 +1,88 @@
+# Aplicativo Web Ghost
+
+Para esta tercera entrega se seguirá realizando las pruebas sobre la aplicación [Ghost]
+
+Se han realizado los tipos de prueba:
+
+## E2E Testing Diferentes navegadores, diferentes sistemas operativos.
+
+Diferentes navegadores y diferentes sistemas operativos, haciendo uso del servicio https://crossbrowsertesting.com/ y 
+el módulo [selenium-webdriver] se han automatizado el caso de uso de [autenticación de la aplicación]
+
+El script de la prueba se puede encontrar en [este enlace]
+
+### Pruebas en Navegadores de escritorio (13):
+
+#### Pruebas exitosas:
+
+* Windows Vista Chrome 36
+* Windows 7 IE10
+* Windows 10 Edge 14
+* Windows 10 Firefox 49
+* Mac OSX 10.8 Safari 6.2
+* Mac OSX 10.10 Chrome 50
+
+Url vídeo: https://youtu.be/96Ld0fRUWFw
+
+
+#### Pruebas Fallidas:
+
+* Windows XP IE06 HTTPS
+* Windows XP IE06 HTTP
+* Windows 8 Firefox 3.6
+* Windows 8 Chrome 25
+* Mac OSX 10.8 Firefox 9.0
+* Mac OSX 10.9 Opera 12
+* Windows Vista Chrome 18
+
+**Razones:**
+
+* Incompatibilidad Javascript.
+* Problemas de CSS
+
+Url vídeo: https://youtu.be/BzxA8uNeSBM
+
+
+### Ejecución de la prueba.
+
+Para realizar el proceso es necesario establecer los parámetros del tipo de prueba que se hará, indicando:
+
+* Navegador y su versión.
+* Sistema operativo: su versión y el tipo de sistema operativo (móvil/escritorio)
+* Opciones de la prueba (generación de vídeo, captura de pantalla)
+
+#### Ejemplo prueba navegador de escritorio.
+
+```js
+var caps = {
+    name : 'Login Form Windows 8 Firefox 3.6',
+    build :  '1.0',
+    version : '3.6', 
+    platform : 'Windows 8', 
+    screenResolution : '1366x768',
+    record_video : 'true',
+    record_network : 'true',
+    browserName : 'Firefox',
+    username : username,
+    password : authkey
+};
+```
+
+
+## E2E Testing TagUI
+
+
+### Autor.
+
+* Jorge Rubiano.
+* E-mail:jh.rubiano10@unianades.edu.co
+* Código: 201510711
+
+
+License
+----
+MIT
+
+[Ghost]:https://ghost.org/es/
+[selenium-webdriver]:https://www.npmjs.com/package/selenium-webdriver
+[este enlace]:https://github.com/jhrubiano10/pruebas_automaticas/blob/master/reporte_03/aplicativo_web/crossbrowser/app.js#L48
