@@ -1,4 +1,4 @@
-# Reporte 02 - Pruebas automáticas.
+# Reporte 03 - Pruebas automáticas.
 
 * [Aplicación Web - Ghost]
 * [Aplicaciones Móviles - AntenaPod y Loop Habit Tracker]
