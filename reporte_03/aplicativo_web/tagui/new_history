@@ -1,0 +1,11 @@
+http://localhost:2368/ghost/#/signin
+wait 1.5 seconds
+click .gh-btn-green
+click .gh-editor-title
+enter .gh-editor-title as Nueva entrada del Blog
+enter .CodeMirror.cm-s-paper.CodeMirror-wrap.CodeMirror-empty.CodeMirror-focused textarea as Una nueva entrada del blog ![img](http://www.panel.es/wp-content/uploads/2017/08/SimianArmy.png) Final del texto
+wait 3.5 seconds
+click .post-settings
+wait 3.5 seconds
+click .post-view-link
+wait 3.5 seconds

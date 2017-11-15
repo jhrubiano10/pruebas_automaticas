@@ -1,0 +1,9 @@
+http://localhost:2368/ghost/#/settings/tags
+click .view-actions span
+click tag-name
+enter tag-name as Auntomatización
+click tag-slug
+enter tag-slug as test-automatiza
+click tag-description
+enter tag-description as Tag relacionado a Pruebas de automatización
+wait 3.5 seconds

@@ -1,0 +1,8 @@
+http://localhost:2368/ghost/#/
+wait 2.0 seconds
+http://localhost:2368/ghost/#/editor/5a0b644490d4be3323de134b
+wait 2.0 seconds
+click .post-settings
+click .settings-menu-delete-button span
+click .modal-footer .gh-btn-red span
+wait 3.5 seconds

@@ -1,0 +1,6 @@
+http://localhost:2368/ghost/#/subscribers
+click .gh-btn-green span
+click .email
+enter .email as nuevosusbcriber@gmail.com
+click .modal-footer .gh-btn-green span
+wait 3.5 seconds

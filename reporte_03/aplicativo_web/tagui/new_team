@@ -1,0 +1,8 @@
+http://localhost:2368/ghost/#/team
+click .view-actions span
+click new-user-email
+enter new-user-email as nuevoususario@correo.com
+click .modal-content span
+wait 2.0 seconds
+http://localhost:2368/ghost/#/team
+wait 3.5 seconds
