@@ -119,7 +119,25 @@ Haciendo uso del paquete [snyk] se ha revisado el proyecto Ghost, encontrando 14
 * 5 de media severidad.
 * 4 de baja severidad.
 
-***[Reporte de ejecución Snyk]***
+**[Reporte Snyk Ghost]**
+
+# Pruebas de accesibilidad/vulenaribilidad con Sonarwhal
+
+Se ha hecho uso de de [Sonarwhal] para escanear la aplicación web, el enfoque de está es buscar vulnerabilidades a nivel de front, problemas de accesibilidad e interoperabilidad.
+
+**[Reporte SonarWhal Ghost]**
+
+# Pruebas Monkey Testing con monkeytest.it
+
+[monkeytest.it]:https://monkeytest.it/ analiza los problemas más comunes que tienen la mayoría de los sitios web haciendo uso de monkeys.
+
+**[Reporte monkeytest Ghost]**
+
+# Pruebas velocidad de carga con webpagetest.org
+
+[webpagetest.org] revisa la velocidad de carga de una aplicación web. Está herramienta ayuda a detectar aquellos scripts/imágenes/css que causan que la página tenga una descarga lenta.
+
+**[Reporte webpagetest Ghost]**
 
 
 ### Autor.
@@ -145,4 +163,10 @@ MIT
 [Crear un suscriptor]:https://github.com/jhrubiano10/pruebas_automaticas/blob/master/reporte_03/aplicativo_web/tagui/new_subscriber
 [Crear un tag]:https://github.com/jhrubiano10/pruebas_automaticas/blob/master/reporte_03/aplicativo_web/tagui/new_tag
 [snyk]:https://www.npmjs.com/package/snyk
-[Reporte de ejecución Snyk]:https://github.com/jhrubiano10/pruebas_automaticas/blob/master/reporte_03/aplicativo_web/reportes/Reporte_ghost_snyk.pdf
+[Reporte Snyk Ghost]:https://github.com/jhrubiano10/pruebas_automaticas/blob/master/reporte_03/aplicativo_web/reportes/Reporte_ghost_snyk.pdf
+[Sonarwhal]:https://sonarwhal.com/
+[Reporte SonarWhal Ghost]:https://goo.gl/jMwvJE
+[monkeytest.it]:https://monkeytest.it/
+[Reporte monkeytest Ghost]:https://goo.gl/FXpwNo
+[webpagetest.org]:https://www.webpagetest.org/
+[Reporte webpagetest Ghost]:https://goo.gl/vEbyNu
