@@ -68,8 +68,11 @@ var caps = {
 };
 ```
 
-
 ## E2E Testing TagUI
+
+Se ha hecho uso de [TagUI] para la ejecución de la de tipo E2E, TagUI ofrece una [extensión que permite la grabación] de la prueba, entregando los pasos que se ejecutarán de la misma a través del cli.
+
+![tagui](https://github.com/jhrubiano10/pruebas_automaticas/blob/master/reporte_03/aplicativo_web/tagui/ejemplo_tagui.gif?raw=true)
 
 
 ### Autor.
@@ -86,3 +89,5 @@ MIT
 [Ghost]:https://ghost.org/es/
 [selenium-webdriver]:https://www.npmjs.com/package/selenium-webdriver
 [este enlace]:https://github.com/jhrubiano10/pruebas_automaticas/blob/master/reporte_03/aplicativo_web/crossbrowser/app.js#L48
+[TagUI]:https://github.com/tebelorg/TagUI
+[extensión que permite la grabación]:https://chrome.google.com/webstore/detail/tagui-web-automation/egdllmehgfgjebhlkjmcnhiocfcidnjk?hl=en-GB
