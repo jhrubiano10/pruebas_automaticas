@@ -72,7 +72,36 @@ var caps = {
 
 Se ha hecho uso de [TagUI] para la ejecución de la de tipo E2E, TagUI ofrece una [extensión que permite la grabación] de la prueba, entregando los pasos que se ejecutarán de la misma a través del cli.
 
+### Grabación de la prueba.
+
 ![tagui](https://github.com/jhrubiano10/pruebas_automaticas/blob/master/reporte_03/aplicativo_web/tagui/ejemplo_tagui.gif?raw=true)
+
+### Archivo resultante.
+
+```
+http://localhost:2368/ghost/#/subscribers
+click .gh-btn-green span
+click .email
+enter .email as nuevosusbcriber@gmail.com
+click .modal-footer .gh-btn-green span
+wait 3.5 seconds
+```
+
+### Ejecución de la prueba.
+
+![taguicli](https://github.com/jhrubiano10/pruebas_automaticas/blob/master/reporte_03/aplicativo_web/tagui/nuevo_suscriptor.gif?raw=true)
+
+### Casos de uso probados.
+
+* [Autenticación al sistema]
+* [Creación de una entrada]
+* [Eliminar una entrada]
+* [Crear un usuario team]
+* [Crear un suscriptor]
+* [Crear un tag]
+
+Url vídeo: https://youtu.be/neEPhoYkpIM
+
 
 
 ### Autor.
@@ -91,3 +120,9 @@ MIT
 [este enlace]:https://github.com/jhrubiano10/pruebas_automaticas/blob/master/reporte_03/aplicativo_web/crossbrowser/app.js#L48
 [TagUI]:https://github.com/tebelorg/TagUI
 [extensión que permite la grabación]:https://chrome.google.com/webstore/detail/tagui-web-automation/egdllmehgfgjebhlkjmcnhiocfcidnjk?hl=en-GB
+[Autenticación al sistema]:https://github.com/jhrubiano10/pruebas_automaticas/blob/master/reporte_03/aplicativo_web/tagui/login
+[Creación de una entrada]:https://github.com/jhrubiano10/pruebas_automaticas/blob/master/reporte_03/aplicativo_web/tagui/new_history
+[Eliminar una entrada]:https://github.com/jhrubiano10/pruebas_automaticas/blob/master/reporte_03/aplicativo_web/tagui/delete_post
+[Crear un usuario team]:https://github.com/jhrubiano10/pruebas_automaticas/blob/master/reporte_03/aplicativo_web/tagui/new_team
+[Crear un suscriptor]:https://github.com/jhrubiano10/pruebas_automaticas/blob/master/reporte_03/aplicativo_web/tagui/new_subscriber
+[Crear un tag]:https://github.com/jhrubiano10/pruebas_automaticas/blob/master/reporte_03/aplicativo_web/tagui/new_tag
