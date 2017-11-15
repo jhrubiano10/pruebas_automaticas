@@ -91,6 +91,14 @@ wait 3.5 seconds
 
 ![taguicli](https://github.com/jhrubiano10/pruebas_automaticas/blob/master/reporte_03/aplicativo_web/tagui/nuevo_suscriptor.gif?raw=true)
 
+```
+./tagui [archivo de la prueba] [chrome|firefox|PhantomJS]
+```
+
+```
+./tagui new_subscriber chrome
+```
+
 ### Casos de uso probados.
 
 * [Autenticación al sistema]
@@ -102,6 +110,16 @@ wait 3.5 seconds
 
 Url vídeo: https://youtu.be/neEPhoYkpIM
 
+
+# Pruebas de seguridad con Snyk.io
+
+Haciendo uso del paquete [snyk] se ha revisado el proyecto Ghost, encontrando 14 vulnerabilidades.
+
+* 5 Severas
+* 5 de media severidad.
+* 4 de baja severidad.
+
+***[Reporte de ejecución Snyk]***
 
 
 ### Autor.
@@ -126,3 +144,5 @@ MIT
 [Crear un usuario team]:https://github.com/jhrubiano10/pruebas_automaticas/blob/master/reporte_03/aplicativo_web/tagui/new_team
 [Crear un suscriptor]:https://github.com/jhrubiano10/pruebas_automaticas/blob/master/reporte_03/aplicativo_web/tagui/new_subscriber
 [Crear un tag]:https://github.com/jhrubiano10/pruebas_automaticas/blob/master/reporte_03/aplicativo_web/tagui/new_tag
+[snyk]:https://www.npmjs.com/package/snyk
+[Reporte de ejecución Snyk]:https://github.com/jhrubiano10/pruebas_automaticas/blob/master/reporte_03/aplicativo_web/reportes/Reporte_ghost_snyk.pdf
