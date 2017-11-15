@@ -6,7 +6,7 @@
 ### Autor
 
 * Jorge Rubiano
-* Email: jh.rubiano10@unianades.edu.co
+* E-mail: jh.rubiano10@unianades.edu.co
 * Código: 201510711
 
 
